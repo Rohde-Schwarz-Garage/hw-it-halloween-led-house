@@ -7,7 +7,7 @@ Halloweenhaus – Bauanleitung für Zuhause
 In der Datei **„Bausteine“** benötigst du folgende Teile: **Zubehör, Deckel, Boden, Vorderseite, Rückseite sowie die linke und rechte Seite.**
 
 Lege die Teile so auf der Fläche an, dass sie möglichst wenig Platz verbrauchen. Wenn du ein Teil drehen möchtest, klicke es an und ziehe an einer Ecke.
-<img src="../Bilder/LB1.jpg" alt="Bild LB1" width="100">
+<img src="../Bilder/LB1.png" alt="Bild LB1" width="100">
 <br><br>
 
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
@@ -22,12 +22,12 @@ Blau (01)
 
 Rot (02)
 
-<img src="../Bilder/LB2.jpg" alt="Bild LB2" width="200">
+<img src="../Bilder/LB2.png" alt="Bild LB2" width="200">
 <br><br>
 
 Speichere die Datei im Ordner **„Halloween_Haus“** unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus..
-<img src="../Bilder/LB3.jpg" alt="Bild LB3" width="200">
-<img src="../Bilder/LB4.jpg" alt="Bild LB4" width="200">
+<img src="../Bilder/LB3.png" alt="Bild LB3" width="200">
+<img src="../Bilder/LB4.png" alt="Bild LB4" width="200">
 <br><br>
 
 Bevor du mit dem Lasern beginnst, musst du unbedingt die Maschine einschalten. Dafür gibt es einen großen schwarzen Schalter – schiebe ihn einfach auf **„ON“**.
