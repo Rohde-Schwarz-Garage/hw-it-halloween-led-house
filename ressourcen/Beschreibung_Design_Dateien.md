@@ -229,7 +229,7 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 
 13. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
 
-<img src="../Bilder/11.jpg" alt="Bild 12" width="200">
+<img src="../Bilder/12.jpg" alt="Bild 12" width="200">
 
 <br><br>
 <br><br>
