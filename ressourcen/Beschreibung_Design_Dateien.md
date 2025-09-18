@@ -11,9 +11,11 @@ Lege die Teile so auf der Fläche an, dass sie möglichst wenig Platz verbrauche
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
 
 Schwarz (00)
-<br><br>
+<br>
 Grün (03)
-
+<br><br>
+<br><br>
+<br><br>
 Türkis (06)
 
 Blau (01)
