@@ -140,10 +140,12 @@ Verwende dafür Heißkleber – aber Vorsicht: Der Kleber wird sehr heiß!
 Lass dir dabei unbedingt von einem Erwachsenen helfen, damit du dich nicht verbrennst.
 <br><br>
 
-1. Klebe zuerst die Rückwand und eine Seitenwand in die Bodenplatte.
-Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.
-![Bild](../Bilder/1.jpg)
+1. Klebe zuerst die Rückwand und eine Seitenwand in die Bodenplatte.  
+   Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
+<p align="center">
+  <img src="../Bilder/1.jpg" alt="Bild 1" width="300">
+</p>
 
 
 2. Klebe den ersten Chip-Halter hinten bündig in die Ecke der Bodenplatte.
