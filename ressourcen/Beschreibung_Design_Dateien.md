@@ -134,6 +134,7 @@ In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktion
 
 Oben links in der Arduino IDE siehst du einen Pfeil – das ist der **„Upload“-Button**.
 Klicke darauf, um den Code auf deinen Chip zu übertragen.
+
 <img src="../Bilder/A4.png" alt="Bild A4" width="80">
 <br><br>
 <br><br>
