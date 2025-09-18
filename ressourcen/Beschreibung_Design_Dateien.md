@@ -11,17 +11,16 @@ Lege die Teile so auf der Fläche an, dass sie möglichst wenig Platz verbrauche
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
 
 Schwarz (00)
-<br>
+
 Grün (03)
-<br><br>
-<br><br>
-<br><br>
+
 Türkis (06)
 
 Blau (01)
 
 Rot (02)
 
+<br><br>
 
 Speichere die Datei im Ordner **„****Halloween_Haus****“** unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus..
 
