@@ -172,6 +172,5 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 <br><br>
 
 # Geschafft!
-<br><br>
 
 Dein Halloweenhaus ist jetzt fertig! Viel Spaß beim Dekorieren und ein gruselig schönes Halloween!
