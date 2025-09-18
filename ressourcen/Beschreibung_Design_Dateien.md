@@ -138,17 +138,20 @@ Achte darauf, dass alle Verbindungen fest sitzen – so funktioniert später all
 Jetzt wird das Haus zusammengeklebt.
 Verwende dafür Heißkleber – aber Vorsicht: Der Kleber wird sehr heiß!
 Lass dir dabei unbedingt von einem Erwachsenen helfen, damit du dich nicht verbrennst.
+
+<br><br>
+<img src="../Bilder/1.jpg" alt="Bild 1" width="200">
 <br><br>
 
 1. Klebe zuerst die Rückwand und eine Seitenwand in die Bodenplatte.  
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
-<img src="../Bilder/1.jpg" alt="Bild 1" width="200">
-
-
+<img src="../Bilder/2.jpg" alt="Bild 2" width="200">
 
 2. Klebe den ersten Chip-Halter hinten bündig in die Ecke der Bodenplatte.
 Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
+
+<img src="../Bilder/3.jpg" alt="Bild 3" width="200">
 
 3. Klebe die Plastikhalterung für den Chip bündig an den Chip-Halter und die Rückwand.
 Sie sollte gut anliegen, damit der Chip später sicher sitzt.
