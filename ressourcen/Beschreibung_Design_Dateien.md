@@ -26,7 +26,7 @@ Rot (02)
 <img src="../Bilder/LB2.png" alt="Bild LB2" width="250">
 <br><br>
 
-Speichere die Datei im Ordner unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus.
+Speichere die Datei unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus.
 
 <img src="../Bilder/LB3.png" alt="Bild LB3" width="200">
 <img src="../Bilder/LB4.png" alt="Bild LB4" width="200">
