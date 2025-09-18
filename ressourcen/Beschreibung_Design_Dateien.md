@@ -4,7 +4,37 @@ Halloweenhaus – Bauanleitung für Zuhause
 
 Öffne das Programm **LightBurn** zweimal. Das geht am einfachsten, wenn du unten in der Suchleiste nach „LightBurn“ suchst. Im ersten Fenster öffnest du die Datei **„Kuerbis_Haus_Bausteine.lbrn2“** und im zweiten Fenster die Datei **„Holzbauteile.lbrn2“**.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 In der Datei **„Bausteine“** benötigst du folgende Teile: **Zubehör, Deckel, Boden, Vorderseite, Rückseite sowie die linke und rechte Seite.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Lege die Teile so auf der Fläche an, dass sie möglichst wenig Platz verbrauchen. Wenn du ein Teil drehen möchtest, klicke es an und ziehe an einer Ecke.
 
