@@ -43,11 +43,11 @@ Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 2. Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
 
-<img src="../Bilder/LB5.png" alt="Bild LB5" width="300">
+<img src="../Bilder/LB5.png" alt="Bild LB5" width="350">
 
 3. Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
 
-<img src="../Bilder/LB6.png" alt="Bild LB6" width="300">
+<img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
 <br><br>
 
 Wenn alle Einstellungen stimmen, klickst du auf **„Senden“**. Danach kannst du zum Lasercutter gehen.Beim Cutter:
