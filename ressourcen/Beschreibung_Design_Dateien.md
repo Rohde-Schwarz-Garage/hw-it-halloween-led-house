@@ -71,10 +71,10 @@ Stecke anschließend alle Teile einmal ohne Kleber zusammen – das nennt man **
 Falls etwas klemmt oder nicht richtig sitzt, kannst du mit Schleifpapier oder einer Feile nachhelfen.
 
 Wenn alles passt, kannst du mit dem nächsten Schritt weitermachen: dem Programmieren – oder, wenn du das schon erledigt hast, mit dem Zusammenkleben.
-
+<br><br>
+<br><br>
 
 # 2. Chip vorbereiten und programmieren
-<br><br>
 
 Installiere zuerst die Arduino IDE auf deinem Computer.
 Öffne danach die Bibliotheksverwaltung – dort kannst du zusätzliche Funktionen für dein Projekt hinzufügen.
@@ -108,12 +108,10 @@ In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktion
 
 Oben links in der Arduino IDE siehst du einen Pfeil – das ist der **„Upload“-Button**.
 Klicke darauf, um den Code auf deinen Chip zu übertragen.
-
 <br><br>
 <br><br>
 
 # 3. Verkabeln 
-<br><br>
 
 Jetzt geht es ans Verkabeln – damit dein Chip und die LED richtig miteinander sprechen können.
 
@@ -132,13 +130,10 @@ Die andere Seite an **D2**
 **GND** kommt an **GND**
 
 Achte darauf, dass alle Verbindungen fest sitzen – so funktioniert später alles zuverlässig.
-
-
 <br><br>
 <br><br>
 
 # 4. Haus zusammenkleben
-<br><br>
 
 Jetzt wird das Haus zusammengeklebt.
 Verwende dafür Heißkleber – aber Vorsicht: Der Kleber wird sehr heiß!
@@ -173,7 +168,6 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 12. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
 
 13. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
-
 <br><br>
 <br><br>
 
