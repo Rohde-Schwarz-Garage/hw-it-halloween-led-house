@@ -122,7 +122,7 @@ GND kommt an GND
 
 Achte darauf, dass alle Verbindungen fest sitzen – so funktioniert später alles zuverlässig.
 
-## 4. Haus zusammenkleben
+## 3. Haus zusammenkleben
 
 Jetzt wird das Haus zusammengeklebt.
 Verwende dafür Heißkleber – aber Vorsicht: Der Kleber wird sehr heiß!
