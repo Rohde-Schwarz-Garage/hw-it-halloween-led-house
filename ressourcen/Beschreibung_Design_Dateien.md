@@ -8,6 +8,8 @@ In der Datei **„Bausteine“** benötigst du folgende Teile: **Zubehör, Decke
 
 Lege die Teile so auf der Fläche an, dass sie möglichst wenig Platz verbrauchen. Wenn du ein Teil drehen möchtest, klicke es an und ziehe an einer Ecke.
 
+<br><br>
+
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
 
 Schwarz (00)
@@ -25,7 +27,7 @@ Rot (02)
 Speichere die Datei im Ordner **„****Halloween_Haus****“** unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus..
 
 Bevor du mit dem Lasern beginnst, musst du unbedingt die Maschine einschalten. Dafür gibt es einen großen schwarzen Schalter – schiebe ihn einfach auf „ON“.
-
+<br><br>
 Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 Ist die richtige Position ausgewählt? Wähle „Benutzerausgangsposition“.
@@ -33,31 +35,33 @@ Ist die richtige Position ausgewählt? Wähle „Benutzerausgangsposition“.
 Ist die richtige Maschine eingestellt? Wähle „Laser“.
 
 Bei „Leistung Min“ und „Leistung Max“ muss derselbe Wert eingestellt sein.
-
+<br><br>
 Wenn alle Einstellungen stimmen, klickst du auf „Senden“. Danach kannst du zum Lasercutter gehen.Beim Cutter:
 
-Öffne die Klappe des Lasercutters und lege das Holz vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
+1. Öffne die Klappe des Lasercutters und lege das Holz vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
 
-Wenn das Holz mehr als 2 mm gewellt ist, lege etwas Schweres darauf, damit es flach liegt.
+2. Wenn das Holz mehr als 2 mm gewellt ist, lege etwas Schweres darauf, damit es flach liegt.
 
-Richte das Brett so aus, dass es bündig in der Ecke liegt – das sorgt für einen sauberen Startpunkt.
+3. Richte das Brett so aus, dass es bündig in der Ecke liegt – das sorgt für einen sauberen Startpunkt.
 
-Drücke den Knopf „File“ an der Maschine – damit wird die Datei geladen.
+4. Drücke den Knopf „File“ an der Maschine – damit wird die Datei geladen.
 
-Bestätige die Auswahl mit dem Knopf „Enter“.
+5. Bestätige die Auswahl mit dem Knopf „Enter“.
 
-Mit den Pfeiltasten an der Maschine kannst du den Laser bewegen. Fahre ihn zur oberen rechten Ecke des Werkstücks – dort beginnt später der Schnitt.
+6. Mit den Pfeiltasten an der Maschine kannst du den Laser bewegen. Fahre ihn zur oberen rechten Ecke des Werkstücks – dort beginnt später der Schnitt.
 
-Öffne die Haube erneut und überprüfe die Höhe des Laserkopfs.
-Der Abstand zum Material sollte nicht mehr als 5 mm betragen.
-Falls nötig, kannst du den Laser vorsichtig nach unten ziehen, um die Höhe anzupassen
+7. Öffne die Haube erneut und überprüfe die Höhe des Laserkopfs.
 
-Wenn alles richtig eingestellt ist, drücke den Knopf „Origin“. Damit setzt du den Startpunkt für den Laserschnitt.
+8. Der Abstand zum Material sollte nicht mehr als 5 mm betragen.
 
-Mit dem Knopf „Frame“ kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
-Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
+9. Falls nötig, kannst du den Laser vorsichtig nach unten ziehen, um die Höhe anzupassen
 
-Wenn alles passt, drücke zuerst den blau leuchtenden „Reset“-Knopf und danach den grünen „St/Pau“-Knopf (Start/Pause), um den Laservorgang zu starten.
+10. Wenn alles richtig eingestellt ist, drücke den Knopf „Origin“. Damit setzt du den Startpunkt für den Laserschnitt.
+
+11. Mit dem Knopf „Frame“ kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
+    Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
+
+12. Wenn alles passt, drücke zuerst den blau leuchtenden „Reset“-Knopf und danach den grünen „St/Pau“-Knopf (Start/Pause), um den Laservorgang zu starten.
 
 Wenn du während des Laserns merkst, dass etwas nicht stimmt, kannst du jederzeit auf „St/Pau“ oder „Stop“ drücken, um den Vorgang zu unterbrechen.
 
