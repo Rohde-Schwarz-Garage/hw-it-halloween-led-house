@@ -158,27 +158,48 @@ Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 
 <img src="../Bilder/4.jpg" alt="Bild 4" width="200">
+<br><br>
 
+4. Klebe den Chip genau in die Mitte der Plastikhalterung. Drücke ihn vorsichtig fest, damit er gut hält und später nicht verrutscht.
 
-5. Klebe den Chip genau in die Mitte der Plastikhalterung. Drücke ihn vorsichtig fest, damit er gut hält und später nicht verrutscht.
+<img src="../Bilder/5.jpg" alt="Bild 5" width="200">
+<br><br>
 
-6. Klebe den zweiten Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
+5. Klebe den zweiten Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
 
-7. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
+<img src="../Bilder/6.jpg" alt="Bild 6" width="200">
+<br><br>
 
-8. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
+6. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
 
-9. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
+7. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
 
-10. Klebe die Vorderseite in die Bodenplatte und verbinde die Ecken mit den Seitenwänden.
+<img src="../Bilder/7.jpg" alt="Bild 7" width="200">
+<br><br>
 
-11. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
+8. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
 
-12. Klebe die Seitenscheiben links und rechts auf. Sie passen genau in die Aussparungen der Seitenwände.
+9. Klebe die Vorderseite in die Bodenplatte und verbinde die Ecken mit den Seitenwänden.
 
-13. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
+<img src="../Bilder/8.jpg" alt="Bild 8" width="200">
+<br><br>
 
-14. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
+10. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
+
+<img src="../Bilder/9.jpg" alt="Bild 9" width="200">
+<br><br>
+
+11. Klebe die Seitenscheiben links und rechts auf. Sie passen genau in die Aussparungen der Seitenwände.
+
+<img src="../Bilder/10.jpg" alt="Bild 10" width="200">
+<br><br>
+
+12. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
+
+<img src="../Bilder/11.jpg" alt="Bild 11" width="200">
+<br><br>
+
+13. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
 <br><br>
 <br><br>
 
