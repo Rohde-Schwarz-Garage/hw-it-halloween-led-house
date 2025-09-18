@@ -97,13 +97,17 @@ Wenn alles passt, kannst du mit dem nächsten Schritt weitermachen: dem Programm
 
 Installiere zuerst die Arduino IDE auf deinem Computer.
 Öffne danach die Bibliotheksverwaltung – dort kannst du zusätzliche Funktionen für dein Projekt hinzufügen.
+<img src="../Bilder/A1.png" alt="Bild A1" width="80">
+<br><br>
 
 Installiere die Bibliothek **„Adafruit ****NeoPixel****“** (von Adafruit) in der Version **1.15.1** – sie sorgt später dafür, dass die LED-Lichter richtig gesteuert werden können.
+<img src="../Bilder/A2.png" alt="Bild A2" width="200">
 <br><br>
 
 Nimm den Chip aus deinem Bausatz – das ist sozusagen das Gehirn deines Halloweenhauses.
 Er sorgt dafür, dass die LED-Lichter genau das tun, was du programmiert hast.
 Verbinde den Chip mit einem USB-B-Kabel mit deinem Computer.
+<img src="../Bilder/A3.png" alt="Bild A3" width="200">
 <br><br>
 
 Öffne die Arduino IDE – das ist die Software, mit der du deinem Chip sagen kannst, was er später tun soll.
@@ -127,6 +131,7 @@ In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktion
 
 Oben links in der Arduino IDE siehst du einen Pfeil – das ist der **„Upload“-Button**.
 Klicke darauf, um den Code auf deinen Chip zu übertragen.
+<img src="../Bilder/A4.png" alt="Bild A4" width="80">
 <br><br>
 <br><br>
 
