@@ -25,6 +25,7 @@ Rot (02)
 Speichere die Datei im Ordner **„Halloween_Haus“** unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus..
 
 Bevor du mit dem Lasern beginnst, musst du unbedingt die Maschine einschalten. Dafür gibt es einen großen schwarzen Schalter – schiebe ihn einfach auf **„ON“**.
+
 <img src="../Bilder/L1.jpg" alt="Bild L1" width="200">
 <br><br>
 
@@ -57,12 +58,12 @@ Wenn alle Einstellungen stimmen, klickst du auf **„Senden“**. Danach kannst 
 9. Falls nötig, kannst du den Laser vorsichtig nach unten ziehen, um die Höhe anzupassen
 
 10. Wenn alles richtig eingestellt ist, drücke den Knopf **„Origin“**. Damit setzt du den Startpunkt für den Laserschnitt.
-<img src="../Bilder/L3.jpg" alt="Bild L3" width="200">
+<img src="../Bilder/L3.jpg" alt="Bild L3" width="150">
 <br><br>
 
 11. Mit dem Knopf **„Frame“** kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
     Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
-<img src="../Bilder/L2.jpg" alt="Bild L2" width="200">
+<img src="../Bilder/L2.jpg" alt="Bild L2" width="250">
 <br><br>
 
 12. Wenn alles passt, drücke zuerst den blau leuchtenden **„Reset“-Knopf** und danach den grünen **„St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.
