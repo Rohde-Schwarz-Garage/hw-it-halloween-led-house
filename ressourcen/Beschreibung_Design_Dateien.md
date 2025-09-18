@@ -153,13 +153,13 @@ Wenn du während des Laserns merkst, dass etwas nicht stimmt, kannst du jederzei
 
 
 
-# Warte nun, bis der Lasercutter den Schnitt vollständig abgeschlossen hat.
+Warte nun, bis der Lasercutter den Schnitt vollständig abgeschlossen hat.
 Sobald die Maschine fertig ist, kannst du die ausgeschnittenen Teile vorsichtig herausnehmen und den restlichen Abfall entsorgen.
 
-# Stecke anschließend alle Teile einmal ohne Kleber zusammen – das nennt man „trocken zusammenstecken“. So kannst du prüfen, ob alles gut passt.
+Stecke anschließend alle Teile einmal ohne Kleber zusammen – das nennt man „trocken zusammenstecken“. So kannst du prüfen, ob alles gut passt.
 Falls etwas klemmt oder nicht richtig sitzt, kannst du mit Schleifpapier oder einer Feile nachhelfen.
 
-# Wenn alles passt, kannst du mit dem nächsten Schritt weitermachen: dem Programmieren – oder, wenn du das schon erledigt hast, mit dem Zusammenkleben.
+Wenn alles passt, kannst du mit dem nächsten Schritt weitermachen: dem Programmieren – oder, wenn du das schon erledigt hast, mit dem Zusammenkleben.
 
 
 
@@ -212,7 +212,7 @@ Klicke darauf, um den Code auf deinen Chip zu übertragen.
 
 
 
-# Verkabeln 
+# 3. Verkabeln 
 
 
 
