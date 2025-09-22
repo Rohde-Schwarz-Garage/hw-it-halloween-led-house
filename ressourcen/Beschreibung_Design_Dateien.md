@@ -149,6 +149,8 @@ Eine Seite kommt an **GND**
 
 Die andere Seite an **D2**
 
+(Diese Kabel sind schon vorbereitet – du musst hier nichts mehr machen.)
+
 **LED:**
 
 **Data-In** kommt an **D8**
@@ -158,6 +160,12 @@ Die andere Seite an **D2**
 **GND** kommt an **GND**
 
 Achte darauf, dass alle Verbindungen fest sitzen – so funktioniert später alles zuverlässig.
+
+Für die Verkabelung brauchst du sogenannte Steckleitungen:
+
+Männlich bedeutet: mit einem festen Pin zum Einstecken.
+Weiblich bedeutet: mit einer Buchse zum Aufnehmen eines Pins.
+Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 <br><br>
 <br><br>
 
