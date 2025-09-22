@@ -164,7 +164,9 @@ Achte darauf, dass alle Verbindungen fest sitzen – so funktioniert später all
 Für die Verkabelung brauchst du sogenannte Steckleitungen:
 
 Männlich bedeutet: mit einem festen Pin zum Einstecken.
+
 Weiblich bedeutet: mit einer Buchse zum Aufnehmen eines Pins.
+
 Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 <br><br>
 <br><br>
