@@ -222,7 +222,7 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 
 7. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
 
-<img src="../Bilder/" alt="Bild LED" width="200">
+<img src="../Bilder/LED.jpg" alt="Bild LED" width="200">
 <br><br>
 
 8. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
