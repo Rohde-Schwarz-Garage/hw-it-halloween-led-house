@@ -165,12 +165,12 @@ Für die Verkabelung brauchst du sogenannte Steckleitungen:
 <br><br>
 Männlich bedeutet: mit einem festen Pin zum Einstecken.
 
-<img src="../Bilder/" alt="Bild Männlich" width="80">
+<img src="../Bilder/maennlich.jpg" alt="Bild Maennlich" width="80">
 <br><br>
 
 Weiblich bedeutet: mit einer Buchse zum Aufnehmen eines Pins.
 
-<img src="../Bilder/" alt="Bild Weiblich" width="80">
+<img src="../Bilder/weiblich.jpg" alt="Bild weiblich" width="80">
 <br><br>
 
 Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
