@@ -216,7 +216,7 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 
 9. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
 
-<img src="../Bilder/" alt="Bild" width="200">
+<img src="../Bilder/" alt="Bild verstreichen" width="200">
 <br><br>
 
 10. Klebe die Vorderseite in die Bodenplatte und verbinde die Ecken mit den Seitenwänden.
