@@ -35,6 +35,6 @@ Das Halloweenhaus ist ein DIY-Projekt für Kinder und Eltern, das Basteln, Techn
 - Holzplatten 4mm
 - Die bereitgestellten LightBurn-Dateien und Arduino-Code
 
-
+---
 
 ## Viel Spaß beim Basteln und ein schaurig-schönes Halloween!
