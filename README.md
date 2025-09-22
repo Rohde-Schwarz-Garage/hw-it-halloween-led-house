@@ -1,4 +1,4 @@
-<img src="Bilder/AI_Werbebild.png" alt="Bild Haus" width="400">
+<img src="Bilder/AI_Werbebild.png" alt="Bild Haus" width="500">
 
 
 
