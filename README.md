@@ -24,6 +24,7 @@ Das Halloweenhaus ist ein DIY-Projekt für Kinder und Eltern, das Basteln, Techn
 - NeoPixel-LED (WS2812)
 - 3 Steckleitungen (männlich + weiblich)
 - Heißkleber
+- USB-C zu USB-B Kabel
 - Button (Taster)
 - Plexiglas für die Fenster
 - Holzplatten 4mm
