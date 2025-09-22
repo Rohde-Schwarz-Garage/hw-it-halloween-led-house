@@ -1,7 +1,7 @@
 Halloweenhaus – Bauanleitung für Zuhause
 
 ## 1. Laserdateien vorbereiten
-# 1. Laserdateien vorbereiten
+
 Öffne das Programm **LightBurn** zweimal. Das geht am einfachsten, wenn du unten in der Suchleiste nach **„LightBurn“** suchst. Im ersten Fenster öffnest du die Datei **„Kuerbis_Haus_Bausteine.lbrn2“** und im zweiten Fenster die Datei **„Holzbauteile.lbrn2“**.
 <br><br>
 In der Datei **„Bausteine“** benötigst du folgende Teile: **Zubehör, Deckel, Boden, Vorderseite, Rückseite sowie die linke und rechte Seite.**
