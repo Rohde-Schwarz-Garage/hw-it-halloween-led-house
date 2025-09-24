@@ -9,14 +9,14 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # 1. Laserdateien vorbereiten
 
-Öffne das Programm LightBurn zweimal. Das geht am einfachsten, wenn du unten in der Windows-Suchleiste nach „LightBurn“ suchst und das Programm zweimal startest.
+Öffne das Programm LightBurn **zweimal**. Das geht am einfachsten, wenn du unten in der Windows-Suchleiste nach **„LightBurn“** suchst und das Programm zweimal startest.
 
 LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Vektorgrafiken bearbeiten, Schnitt- und Gravurpfade festlegen und die finale Datei für den Lasercutter vorbereiten.
 
-Im ersten Fenster öffnest du die Datei Kuerbis_Haus_Bausteine.lbrn2.
-Im zweiten Fenster öffnest du die Datei Holzbauteile.lbrn2. Diese Datei wird später am Lasercutter ausgeführt.
+Im ersten Fenster öffnest du die Datei **Kuerbis_Haus_Bausteine.lbrn2**.
+Im zweiten Fenster öffnest du die Datei **Holzbauteile.lbrn2**. Diese Datei wird später am Lasercutter ausgeführt.
 
-In der Datei „Bausteine“ benötigst du folgende Teile:
+In der Datei **„Bausteine“** benötigst du folgende Teile:
 
 Zubehör
 Deckel
@@ -25,25 +25,25 @@ Vorderseite
 Rückseite
 Linke Seite
 Rechte Seite
-Markiere diese Teile, kopiere sie (Strg + C) und füge sie in die Datei Holzbauteile.lbrn2 ein (Strg + V).
+Markiere diese Teile, kopiere sie **(Strg + C)** und füge sie in die Datei **Holzbauteile.lbrn2** ein **(Strg + V)**.
 
-Lege die Teile dort so auf der Fläche an, dass sie möglichst wenig Platz verbrauchen.
+Lege die Teile dort so auf der Fläche an, dass sie möglichst **wenig** Platz verbrauchen.
 Wenn du ein Teil drehen möchtest, klicke es an und ziehe an einer Ecke. So kannst du es frei rotieren und besser platzieren.
 
-Ziel ist es, eine platzsparende und lasertaugliche Anordnung zu erstellen, die du anschließend speichern und direkt am Lasercutter verwenden kannst.
+Ziel ist es, eine **platzsparende** und lasertaugliche Anordnung zu erstellen, die du anschließend speichern und direkt am Lasercutter verwenden kannst.
 
 
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
 
-Schwarz (00)
+**Schwarz (00)**
 
-Grün (03)
+**Grün (03)**
 
-Türkis (06)
+**Türkis (06)**
 
-Blau (01)
+**Blau (01)**
 
-Rot (02)
+**Rot (02)**
 
 <img src="../Bilder/LB2.png" alt="Bild LB2" width="250">
 <br><br>
