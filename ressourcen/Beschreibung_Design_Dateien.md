@@ -1,4 +1,10 @@
 Halloweenhaus – Bauanleitung für Zuhause
+<br><br>
+
+Bevor du loslegst: Es gibt einen firmeninternen Moodle-Kurs, in dem der Lasercutter ausführlich erklärt wird – inklusive Sicherheitshinweisen, Bedienung und Tipps zur Materialwahl.
+Falls du neu am Gerät bist oder dein Wissen auffrischen willst, schau dort gerne zuerst rein.
+Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung, speziell für den Bau des Halloweenhauses. Du kannst direkt damit arbeiten, wenn du den Lasercutter bereits kennst.
+<br><br>
 
 # 1. Laserdateien vorbereiten
 
