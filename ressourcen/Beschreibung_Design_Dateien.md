@@ -253,7 +253,7 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 13. gib in alle inneren Ecken des Hauses noch einmal eine kleine Ladung Heißkleber.
 Du musst den Kleber diesmal nicht verstreichen – er soll einfach für extra Halt sorgen.
 
-<img src="../Bilder/Ecken.jpg" alt="Bild Ecken" width="200">
+<img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
 14. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
