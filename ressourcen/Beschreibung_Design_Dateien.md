@@ -9,14 +9,8 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # 1. Laserdateien vorbereiten
 
-Öffne das Programm **LightBurn** zweimal. Das geht am einfachsten, wenn du unten in der Suchleiste nach **„LightBurn“** suchst. Im ersten Fenster öffnest du die Datei **„Kuerbis_Haus_Bausteine.lbrn2“** und im zweiten Fenster die Datei **„Holzbauteile.lbrn2“**.
-<br><br>
-In der Datei **„Bausteine“** benötigst du folgende Teile: **Zubehör, Deckel, Boden, Vorderseite, Rückseite sowie die linke und rechte Seite.**
+<img width="1482" height="412" alt="image" src="https://github.com/user-attachments/assets/bfa01193-48a3-40ef-aca2-eae32450c535" />
 
-Lege die Teile so auf der Fläche an, dass sie möglichst wenig Platz verbrauchen. Wenn du ein Teil drehen möchtest, klicke es an und ziehe an einer Ecke.
-
-<img src="../Bilder/LB1.png" alt="Bild LB1" width="80">
-<br><br>
 
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
 
