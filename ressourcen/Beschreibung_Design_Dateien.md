@@ -256,14 +256,14 @@ Du musst den Kleber diesmal nicht verstreichen – er soll einfach für extra Ha
 <img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
-14. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
-
-<img src="../Bilder/11.jpg" alt="Bild 11" width="200">
-<br><br>
-
 Tipp: Mach dir keine Sorgen, wenn es von innen etwas unordentlich aussieht – das passiert beim Basteln und ist völlig okay. Hauptsache, alles hält gut!
 
 <img src="../Bilder/fertig.jpg" alt="unordentlich" width="200">
+<br><br>
+
+14. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
+
+<img src="../Bilder/11.jpg" alt="Bild 11" width="200">
 <br><br>
 
 15. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
