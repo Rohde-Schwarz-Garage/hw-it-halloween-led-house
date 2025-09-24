@@ -84,6 +84,9 @@ Wenn alle Einstellungen stimmen, klickst du auf **„Senden“**. Danach kannst 
 Wenn du während des Laserns merkst, dass etwas nicht stimmt, kannst du jederzeit auf **„St/Pau“** oder **„Stop“** drücken, um den Vorgang zu unterbrechen.
 
 Warte nun, bis der Lasercutter den Schnitt **vollständig** abgeschlossen hat.
+Nicht wundern, wenn es dabei raucht – das ist ganz normal! Der Laser verbrennt das Holz, und da wir keine Absaugung am Gerät haben, kann sich Rauch im Raum sammeln.
+Wenn das Wetter es zulässt, öffne bitte das Fenster, damit der Rauch abziehen kann.
+
 Sobald die Maschine fertig ist, kannst du die ausgeschnittenen Teile vorsichtig herausnehmen und den restlichen Abfall entsorgen.
 
 Stecke anschließend alle Teile einmal ohne Kleber zusammen – das nennt man **„trocken zusammenstecken“**. So kannst du prüfen, ob alles gut passt.
