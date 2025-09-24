@@ -9,7 +9,59 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # 1. Laserdateien vorbereiten
 
-<img width="1482" height="412" alt="image" src="https://github.com/user-attachments/assets/bfa01193-48a3-40ef-aca2-eae32450c535" />
+# Anleitung: Bauteile für das Halloweenhaus in LightBurn vorbereiten
+
+## Was ist LightBurn?
+
+LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Vektorgrafiken bearbeiten, Schnitt- und Gravurpfade festlegen und die finale Datei für den Lasercutter vorbereiten.
+
+---
+
+## Schritte zur Vorbereitung
+### 1. LightBurn zweimal öffnen
+
+- Öffne die Windows-Suchleiste (Lupensymbol unten links).
+- Gib „LightBurn“ ein.
+- Starte das Programm zweimal, sodass zwei Fenster geöffnet sind.
+
+### 2. Dateien laden
+
+- **Fenster 1:** Öffne die Datei `Kuerbis_Haus_Bausteine.lbrn2`.
+- **Fenster 2:** Öffne die Datei `Holzbauteile.lbrn2`.  
+  Diese Datei wird später am Lasercutter ausgeführt.
+
+### 3. Benötigte Teile auswählen
+
+In der Datei `Kuerbis_Haus_Bausteine.lbrn2` benötigst du folgende Elemente:
+
+- Zubehör  
+- Deckel  
+- Boden  
+- Vorderseite  
+- Rückseite  
+- Linke Seite  
+- Rechte Seite
+
+### 4. Teile kopieren und einfügen
+
+- Markiere die gewünschten Teile (Strg + Klick für Mehrfachauswahl).
+- Kopiere sie mit **Strg + C**.
+- Wechsle ins zweite Fenster (`Holzbauteile.lbrn2`) und füge sie mit **Strg + V** ein.
+
+### 5. Teile platzsparend anordnen
+
+- Ziehe die Teile mit der Maus auf die Fläche.
+- Um ein Teil zu drehen:  
+  → Teil anklicken  
+  → An einer Ecke ziehen und rotieren
+
+Ziel: Die Teile sollen möglichst wenig Platz verbrauchen, damit Material gespart wird und der Lasercutter effizient arbeiten kann.
+
+### 6. Datei speichern
+- Speichere die bearbeitete Datei unter einem neuen Namen, z. B. `Halloweenhaus_Final.lbrn2`.
+- Diese Datei wird später direkt am Lasercutter verwendet.
+
+---
 
 
 Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese Reihenfolge:
