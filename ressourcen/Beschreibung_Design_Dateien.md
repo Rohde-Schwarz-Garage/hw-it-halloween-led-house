@@ -85,7 +85,7 @@ Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter a
 
 Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, damit die Datei an den Lasercutter übertragen wird.
 
-<img src="../Bilder/L1.jpg" alt="Schalter" width="200"> <img src="../Bilder/name.png" alt="name Abfrage" width="200">
+<img src="../Bilder/L1.jpg" alt="Schalter" width="200"> <img src="../Bilder/name.png" alt="name Abfrage" width="300">
 <br><br>
 
 1. Öffne die Klappe des Lasercutters und lege das Holz/Kunstoff vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
