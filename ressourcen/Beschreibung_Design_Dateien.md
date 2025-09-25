@@ -116,10 +116,17 @@ Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter a
 Wenn du während des Laserns merkst, dass etwas nicht stimmt, kannst du jederzeit auf **„St/Pau“** oder **„Stop“** drücken, um den Vorgang zu unterbrechen.
 
 Warte nun, bis der Lasercutter den Schnitt **vollständig** abgeschlossen hat.
+
+Der Kunststoffschnitt dauert etwa **5 Minuten**, der Holzschnitt kann bis zu **2 Stunden** dauern – je nach Größe und Detail.
+
+Während die Maschine schneidet, kannst du schon mit dem **Verkabeln und Programmieren** weitermachen – so sparst du Zeit und kommst schneller voran.
+
 Nicht wundern, wenn es dabei raucht – das ist ganz normal! Der Laser verbrennt das Holz, und da wir keine Absaugung am Gerät haben, kann sich Rauch im Raum sammeln.
 Wenn das Wetter es zulässt, öffne bitte das Fenster, damit der Rauch abziehen kann.
 
-Sobald die Maschine fertig ist, kannst du die ausgeschnittenen Teile vorsichtig herausnehmen und den restlichen Abfall entsorgen.
+Wenn die Maschine fertig ist, **piepst sie einmal** – das ist dein Zeichen, dass der Schnitt **abgeschlossen** ist.
+
+Sobald du das Piepen hörst, kannst du die ausgeschnittenen Teile **vorsichtig** herausnehmen und den restlichen Abfall entsorgen.
 
 Stecke anschließend alle Teile einmal ohne Kleber zusammen – das nennt man **„trocken zusammenstecken“**. So kannst du prüfen, ob alles gut passt.
 Falls etwas klemmt oder nicht richtig sitzt, kannst du mit Schleifpapier oder einer Feile nachhelfen.
