@@ -13,6 +13,8 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Vektorgrafiken bearbeiten, Schnitt- und Gravurpfade festlegen und die finale Datei für den Lasercutter vorbereiten.
 
+Öffne auf der linken Seite den Ordner „lightburn“. Dort siehst du die Dateien, die du gleich brauchst. Oben rechts ist ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
+
 Im ersten Fenster öffnest du die Datei **Kuerbis_Haus_Bausteine.lbrn2**.
 Im zweiten Fenster öffnest du die Datei **Holzbauteile.lbrn2**. Diese Datei wird später am Lasercutter ausgeführt.
 
