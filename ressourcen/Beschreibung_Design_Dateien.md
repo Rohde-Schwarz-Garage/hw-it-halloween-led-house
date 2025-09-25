@@ -108,7 +108,7 @@ Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter a
 <img src="../Bilder/L2.jpg" alt="Bild L2" width="250">
 <br><br>
 
-12. Wenn alles passt, drücke zuerst den blau leuchtenden „Reset“-Knopf – wichtig: der blaue Knopf darf nicht mehr leuchten, wenn du schneiden willst. Danach drückst du den grünen „St/Pau“-Knopf (Start/Pause), um den Laservorgang zu starten.
+12. Wenn alles passt, drücke zuerst den **blau** leuchtenden **„Reset“-Knopf** – **wichtig**: der blaue Knopf darf nicht mehr leuchten, wenn du schneiden willst. Danach drückst du den **grünen „St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.
    
 <img src="../Bilder/L3.jpg" alt="Bild L3" width="150">
 <br><br>
