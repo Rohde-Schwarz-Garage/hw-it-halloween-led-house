@@ -75,6 +75,9 @@ Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter auf **„ON“**, klickst in LightBurn auf **„Senden“** und gehst dann zum Lasercutter.
 
+<img src="../Bilder/L1.jpg" alt="Schalter" width="150">
+<br><br>
+
 1. Öffne die Klappe des Lasercutters und lege das Holz vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
 
 2. Wenn das Holz mehr als **2mm** gewellt ist, lege etwas Schweres darauf, damit es flach liegt.
