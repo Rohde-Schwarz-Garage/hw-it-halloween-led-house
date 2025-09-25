@@ -60,11 +60,6 @@ Speichere die Datei unter einem passenden Namen. Zusammen mit der Datei **„Kun
 <img src="../Bilder/LB4.png" alt="Bild LB4" width="200">
 <br><br>
 
-Bevor du mit dem Lasern beginnst, musst du unbedingt die Maschine einschalten. Dafür gibt es einen großen schwarzen Schalter – schiebe ihn einfach auf **„ON“**.
-
-<img src="../Bilder/L1.jpg" alt="Bild L1" width="200">
-<br><br>
-
 Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 1. Ist die richtige Position ausgewählt? Wähle **„Benutzerausgangsposition“**.
@@ -78,7 +73,7 @@ Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 <img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
 <br><br>
 
-Wenn alle Einstellungen stimmen, klickst du auf **„Senden“**. Danach kannst du zum Lasercutter gehen.Beim Cutter:
+Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter auf **„ON“**, klickst in LightBurn auf **„Senden“** und gehst dann zum Lasercutter.
 
 1. Öffne die Klappe des Lasercutters und lege das Holz vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
 
