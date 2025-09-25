@@ -82,7 +82,7 @@ Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter a
 <img src="../Bilder/L1.jpg" alt="Schalter" width="200">
 <br><br>
 
-1. Öffne die Klappe des Lasercutters und lege das Holz vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
+1. Öffne die Klappe des Lasercutters und lege das Holz/Kunstoff vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
 
 2. Wenn das Holz mehr als **2mm** gewellt ist, lege etwas Schweres darauf, damit es flach liegt.
 
