@@ -86,7 +86,7 @@ Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter a
 
 2. Wenn das Holz mehr als **2mm** gewellt ist, lege etwas Schweres darauf, damit es flach liegt.
 
-3. Richte das Brett so aus, dass es bündig in der Ecke liegt – das sorgt für einen sauberen Startpunkt.
+3. Richte das Brett so aus, dass es bündig in der oberen rechten Ecke liegt – das sorgt für einen sauberen Startpunkt.
 
 4. Drücke den Knopf **„File“ an der Maschine – damit wird die Datei geladen.
 
