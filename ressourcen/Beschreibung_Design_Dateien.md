@@ -102,13 +102,13 @@ Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter a
 
 10. Wenn alles richtig eingestellt ist, drücke den Knopf **„Origin“**. Damit setzt du den Startpunkt für den Laserschnitt.
 
-12. Mit dem Knopf **„Frame“** kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
+11. Mit dem Knopf **„Frame“** kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
     Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
     
 <img src="../Bilder/L2.jpg" alt="Bild L2" width="250">
 <br><br>
 
-14. Wenn alles passt, drücke zuerst den blau leuchtenden **„Reset“-Knopf** und danach den grünen **„St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.
+12. Wenn alles passt, drücke zuerst den blau leuchtenden **„Reset“-Knopf** und danach den grünen **„St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.
    
 <img src="../Bilder/L3.jpg" alt="Bild L3" width="150">
 <br><br>
