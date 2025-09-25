@@ -81,9 +81,11 @@ Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht d
 <img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
 <br><br>
 
-Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter auf **„ON“**, klickst in LightBurn auf **„Senden“** und gehst dann zum Lasercutter.
+Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter auf „ON“ und klickst in LightBurn auf „Senden“.
 
-<img src="../Bilder/L1.jpg" alt="Schalter" width="200">
+Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, damit die Datei an den Lasercutter übertragen wird.
+
+<img src="../Bilder/L1.jpg" alt="Schalter" width="200"> <img src="../Bilder/L1.jpg" alt="name.png" width="200">
 <br><br>
 
 1. Öffne die Klappe des Lasercutters und lege das Holz/Kunstoff vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
