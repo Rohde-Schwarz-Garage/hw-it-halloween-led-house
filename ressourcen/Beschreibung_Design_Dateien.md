@@ -72,7 +72,8 @@ Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 **Max** ist dabei schon richtig eingestellt. Schau einfach, ob bei **Min** ein anderer Wert steht – wenn ja, ändere ihn so, dass er **genau** wie **Max** ist.
 
-Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht der richtige Wert für alle Projekte.
+Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht der richtige Wert für alle Schnitt Ebenen.
+
 <img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
 <br><br>
 
