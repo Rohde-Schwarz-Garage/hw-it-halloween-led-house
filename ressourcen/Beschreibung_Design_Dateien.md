@@ -17,6 +17,8 @@ LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Ve
 
 <img src="../Bilder/download.png" alt="download" width="50">
 
+Manchmal sind die **LightBurn-Dateien** ziemlich groß. Damit du alles sehen kannst, musst du ein bisschen **herauszoomen** – das geht ganz einfach mit dem **Mausrad**. So bekommst du einen besseren Überblick, als würdest du ein großes Bild von weiter weg anschauen.
+
 Im ersten Fenster öffnest du die Datei **Kuerbis_Haus_Bausteine.lbrn2**.
 Im zweiten Fenster öffnest du die Datei **Holzbauteile.lbrn2**. Diese Datei wird später am Lasercutter ausgeführt.
 
