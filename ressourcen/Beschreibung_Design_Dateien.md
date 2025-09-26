@@ -92,8 +92,6 @@ Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, da
 
 1. Öffne die Klappe des Lasercutters und lege das Holz/Kunstoff vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
 
-2. Wenn das Holz mehr als **2mm** gewellt ist, lege etwas Schweres darauf, damit es flach liegt.
-
 3. Richte das Brett so aus, dass es bündig in der oberen rechten Ecke liegt – das sorgt für einen sauberen Startpunkt.
 
 4. Drücke den Knopf **„File“ an der Maschine – damit wird die Datei geladen.
@@ -104,7 +102,7 @@ Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, da
 
 7. Öffne die Haube erneut und überprüfe die Höhe des Laserkopfs.
 
-8. Der Abstand zum Material sollte nicht mehr als **5mm** betragen.
+8. Der Abstand zum Material sollte ** ca. 5mm**  betragen. Bei gewelltem Holz richte dich nach dem höchsten Punkt des Materials. Es ist nicht schlimm, wenn der Abstand an flacheren Stellen etwas größer ist – wichtig ist, dass der Laserkopf ** nirgendwo das Material berührt**  und möglichst gleichmäßig etwa 5mm darüber liegt.
 
 9. Falls nötig, kannst du den Laser vorsichtig nach unten ziehen, um die Höhe anzupassen
 
