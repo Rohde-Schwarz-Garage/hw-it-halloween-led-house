@@ -236,13 +236,13 @@ Lass dir dabei unbedingt von einem Erwachsenen helfen, damit du dich nicht verbr
 <img src="../Bilder/1.jpg" alt="Bild 1" width="200">
 <br><br>
 
-1. Klebe zuerst die Rückwand und eine Seitenwand in die Bodenplatte.  
+1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.  
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
 <img src="../Bilder/2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-2. Klebe den ersten Chip-Halter hinten bündig in die Ecke der Bodenplatte.
+2. Klebe den breiteren Chip-Halter hinten bündig in die Ecke der Bodenplatte.
 Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 
 <img src="../Bilder/3.jpg" alt="Bild 3" width="200">
@@ -265,7 +265,7 @@ Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 <img src="../Bilder/5.jpg" alt="Bild 5" width="200">
 <br><br>
 
-6. Klebe den zweiten Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
+6. Klebe den zweiten schmaleren Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
 
 <img src="../Bilder/6.jpg" alt="Bild 6" width="200">
 <br><br>
