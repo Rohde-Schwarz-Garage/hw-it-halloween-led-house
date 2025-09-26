@@ -191,7 +191,9 @@ Klicke darauf, um den Code auf deinen Chip zu übertragen.
 
 # 3. Verkabeln 
 
-Jetzt geht es ans Verkabeln – damit dein Chip und die LED richtig miteinander sprechen können.
+Jetzt geht es ans **Verkabeln** – damit dein Chip und die LED richtig miteinander sprechen können.
+
+**Wichtiger Hinweis**: Bevor du mit der Verkabelung beginnst, **trenne unbedingt die Stromversorgung vom Arduino-Chip**. So vermeidest du Kurzschlüsse und schützt die Bauteile vor Schäden. Erst wenn alle Kabel sicher verbunden sind, darf der Chip wieder mit Strom versorgt werden.
 
 **Button:**
 
