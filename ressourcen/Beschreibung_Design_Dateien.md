@@ -197,13 +197,13 @@ Jetzt geht es ans Verkabeln – damit dein Chip und die LED richtig miteinander 
 
 Eine Seite kommt an **GND**
 
-Die andere Seite an **D2**
+Die andere Seite an **2**
 
 (Diese Kabel sind schon vorbereitet – du musst hier nichts mehr machen.)
 
 **LED:**
 
-**Data-In** kommt an **D8**
+**Data-In** kommt an **8**
 
 **+5V** kommt an **5V**
 
