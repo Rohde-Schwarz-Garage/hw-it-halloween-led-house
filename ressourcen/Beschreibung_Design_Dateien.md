@@ -229,9 +229,8 @@ Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 
 # 4. Haus zusammenkleben
 
-Jetzt wird das Haus zusammengeklebt.
-Verwende dafür Heißkleber – aber Vorsicht: Der Kleber wird sehr heiß!
-Lass dir dabei unbedingt von einem Erwachsenen helfen, damit du dich nicht verbrennst.
+Lass den Kleber etwa 10 Minuten vorheizen
+und sei beim Kleben schnell, denn Heißkleber kühlt rasch ab und wird sofort fest. Verwende ihn zum Zusammenkleben des Hauses – aber Vorsicht: Der Kleber wird sehr heiß! Lass dir unbedingt von einem Erwachsenen helfen, damit du dich nicht verbrennst.
 
 <img src="../Bilder/1.jpg" alt="Bild 1" width="200">
 <br><br>
