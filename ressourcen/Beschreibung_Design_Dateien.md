@@ -270,9 +270,21 @@ Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-5. Klebe den zweiten schmaleren Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
+5. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
 
-<img src="../Bilder/6.jpg" alt="Bild 6" width="200">
+1. Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
+Der Chip soll oben ein kleines Stück auf dem Chiphalter aufliegen, damit er stabil sitzt.
+2. Die linke schwarze Buchse auf dem Chip (wo später das Kabel reinkommt) soll flach an der Rückwand anliegen.
+
+<img src="../Bilder/AK2.jpg" alt="Bild 6" width="200">
+<br><br>
+
+6. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
+
+1. Er liegt vorne an dem Chip mit der langen Seite an
+2. Er liegt an dem anderen Chpihalter mit der kurzen Seite an
+
+<img src="../Bilder/AK1.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
 7. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
