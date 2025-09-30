@@ -264,13 +264,13 @@ Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 <img src="../Bilder/AK3.jpg" alt="Bild 3" width="200">
 <br><br>
 
-4. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
+3. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
 Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-5. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
+4. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
 
 Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
 Der Chip soll oben ein kleines Stück auf dem Chiphalter aufliegen, damit er stabil sitzt.
@@ -279,25 +279,25 @@ Die linke schwarze Buchse auf dem Chip (wo später das Kabel reinkommt) soll fla
 <img src="../Bilder/AK2.jpg" alt="Bild 6" width="200">
 <br><br>
 
-6. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
+5. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
 
-1. Er liegt vorne an dem Chip mit der langen Seite an
-2. Er liegt an dem anderen Chpihalter mit der kurzen Seite an
+Er liegt vorne an dem Chip mit der langen Seite an
+Er liegt an dem anderen Chpihalter mit der kurzen Seite an
 
 <img src="../Bilder/AK1.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-7. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
+6. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
 
 <img src="../Bilder/LED.jpg" alt="Bild LED" width="200">
 <br><br>
 
-8. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
+7. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
 
 <img src="../Bilder/7.jpg" alt="Bild 7" width="200">
 <br><br>
 
-9. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
+8. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
 
 <img src="../Bilder/Ecken.jpg" alt="Bild verstreichen" width="200">
 <br><br>
