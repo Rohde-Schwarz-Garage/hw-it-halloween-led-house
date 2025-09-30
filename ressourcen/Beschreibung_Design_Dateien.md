@@ -237,8 +237,8 @@ und sei beim Kleben schnell, denn Heißkleber kühlt rasch ab und wird sofort fe
 
 Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 
-Lege ein paar Papiertücher auf deinen Tisch – das schützt die Fläche.
-Lege zwei Holzstäbchen unter die Bodenplatte, damit sie ein bisschen erhöht ist.
+1. Lege ein paar Papiertücher auf deinen Tisch – das schützt die Fläche.
+2. 2. Lege zwei Holzstäbchen unter die Bodenplatte, damit sie ein bisschen erhöht ist.
 
 <img src="../Bilder/Tuch.jpg" alt="Unterlage" width="200">
 <br><br>
