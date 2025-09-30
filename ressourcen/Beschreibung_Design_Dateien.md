@@ -302,7 +302,9 @@ Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 <img src="../Bilder/9.jpg" alt="Bild 9" width="200">
 <br><br>
 
-12. Klebe die Seitenscheiben links und rechts auf. Sie passen genau in die Aussparungen der Seitenwände.
+12. Klebe die Seitenscheiben links und rechts auf.
+Sie passen genau in die Aussparungen der Seitenwände.
+Achte darauf, dass die rechte Scheibe etwas größer ist als die linke. Ihre lange Seite zeigt senkrecht nach oben – das wird die Höhe der Scheibe. So passt sie perfekt in die rechte Aussparung und sorgt dafür, dass das Haus später stabil steht.
 
 <img src="../Bilder/10.jpg" alt="Bild 10" width="200">
 <br><br>
