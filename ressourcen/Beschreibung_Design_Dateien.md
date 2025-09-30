@@ -256,11 +256,6 @@ Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 <img src="../Bilder/3.jpg" alt="Bild 3" width="200">
 <br><br>
 
-3. Klebe die Plastikhalterung für den Chip bündig an den Chip-Halter und die Rückwand.
-Sie sollte gut anliegen, damit der Chip später sicher sitzt.
-
-<img src="../Bilder/4.jpg" alt="Bild 4" width="200">
-
 4. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
 Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
