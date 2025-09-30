@@ -247,16 +247,15 @@ Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 <img src="../Bilder/3.jpg" alt="Bild 3" width="200">
 <br><br>
 
-3. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
-Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
-
-<img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
-<br><br>
-
-4. Klebe die Plastikhalterung für den Chip bündig an den Chip-Halter und die Rückwand.
+3. Klebe die Plastikhalterung für den Chip bündig an den Chip-Halter und die Rückwand.
 Sie sollte gut anliegen, damit der Chip später sicher sitzt.
 
 <img src="../Bilder/4.jpg" alt="Bild 4" width="200">
+
+4. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
+Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
+
+<img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
 5. Klebe den Chip genau in die Mitte der Plastikhalterung. Drücke ihn vorsichtig fest, damit er gut hält und später nicht verrutscht.
