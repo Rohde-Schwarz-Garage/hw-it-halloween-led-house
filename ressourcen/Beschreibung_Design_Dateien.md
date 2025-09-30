@@ -61,7 +61,7 @@ Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese R
 Speichere die Datei unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus.
 
 <img src="../Bilder/LB3.png" alt="Bild LB3" width="200">
-<img src="../Bilder/LB4.png" alt="Bild LB4" width="200">
+<img src="../Bilder/LB8.png" alt="Bild LB8" width="200">
 <br><br>
 
 Danach musst du noch ein paar wichtige Einstellungen überprüfen:
