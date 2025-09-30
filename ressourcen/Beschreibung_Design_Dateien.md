@@ -243,7 +243,8 @@ Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 <img src="../Bilder/Tuch.jpg" alt="Unterlage" width="200">
 <br><br>
 
-1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.  
+1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.
+   Du kannst vorsichtig von oben etwas Sekundenkleber in die kleinen Löcher tropfen lassen.
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
 <img src="../Bilder/2.jpg" alt="Bild 2" width="200">
