@@ -272,9 +272,9 @@ Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
 5. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
 
-1. Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
+Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
 Der Chip soll oben ein kleines Stück auf dem Chiphalter aufliegen, damit er stabil sitzt.
-2. Die linke schwarze Buchse auf dem Chip (wo später das Kabel reinkommt) soll flach an der Rückwand anliegen.
+Die linke schwarze Buchse auf dem Chip (wo später das Kabel reinkommt) soll flach an der Rückwand anliegen.
 
 <img src="../Bilder/AK2.jpg" alt="Bild 6" width="200">
 <br><br>
