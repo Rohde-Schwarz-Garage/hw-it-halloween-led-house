@@ -25,7 +25,7 @@ Das Halloweenhaus ist ein DIY-Projekt für Kinder und Eltern, das Basteln, Techn
 ## Was brauchst du?
 
 - Zugang zu einem Lasercutter
-- Arduino Uno R3 (oder kompatibel)
+- Joy-it ARD-ONE-C (oder kompatibel)
 - NeoPixel-LED (WS2812)
 - USB-A zu USB-C Kabel
 - 3 Steckleitungen (männlich + weiblich)
