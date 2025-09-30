@@ -258,10 +258,10 @@ Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 <img src="../Bilder/2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-2. Klebe den breiteren Chip-Halter hinten bündig in die Ecke der Bodenplatte.
+2. Klebe den schmalen Chip-Halter hinten bündig in die Ecke der Bodenplatte.
 Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 
-<img src="../Bilder/3.jpg" alt="Bild 3" width="200">
+<img src="../Bilder/AK3.jpg" alt="Bild 3" width="200">
 <br><br>
 
 4. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
@@ -270,7 +270,7 @@ Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-6. Klebe den zweiten schmaleren Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
+5. Klebe den zweiten schmaleren Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
 
 <img src="../Bilder/6.jpg" alt="Bild 6" width="200">
 <br><br>
