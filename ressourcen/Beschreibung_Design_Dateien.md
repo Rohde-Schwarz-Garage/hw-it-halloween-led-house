@@ -235,6 +235,14 @@ und sei beim Kleben schnell, denn Heißkleber kühlt rasch ab und wird sofort fe
 <img src="../Bilder/1.jpg" alt="Bild 1" width="200">
 <br><br>
 
+Damit beim Kleben nichts schmutzig wird, gehst du so vor:
+
+Lege ein paar Papiertücher auf deinen Tisch – das schützt die Fläche.
+Lege zwei Holzstäbchen unter die Bodenplatte, damit sie ein bisschen erhöht ist.
+
+<img src="../Bilder/Tuch.jpg" alt="Unterlage" width="200">
+<br><br>
+
 1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.  
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
