@@ -158,7 +158,7 @@ Nimm den Chip aus deinem Bausatz – das ist sozusagen das Gehirn deines Hallowe
 Er sorgt dafür, dass die LED-Lichter genau das tun, was du programmiert hast.
 Verbinde den Chip mit einem USB-C-Kabel mit deinem Computer.
 
-<img src="../Bilder/USBC.webp" alt="Bild USB-C" width="200">
+<img src="../Bilder/USBC.jpg" alt="Bild USB-C" width="200">
 <br><br>
 
 Die Arduino IDE ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – zum Beispiel, wie die LED-Lichter leuchten sollen.
