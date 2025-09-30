@@ -161,10 +161,15 @@ Verbinde den Chip mit einem USB-B-Kabel mit deinem Computer.
 <img src="../Bilder/A3.png" alt="Bild A3" width="200">
 <br><br>
 
-Öffne die Arduino IDE – das ist die Software, mit der du deinem Chip sagen kannst, was er später tun soll.
-Hier schreibst du das Programm, das die LED-Lichter steuert.Klicke oben links auf 'File' und Klicke in der Arduino IDE oben links auf „File“ und dann auf „Open“.
-Wähle den Ordner „Desktop“ und öffne darin den Ordner „Halloween_Haus“.
-Dort findest du die Datei **„****LED_Programmierung.ino****“** – öffne sie mit einem Doppelklick.
+Die Arduino IDE ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – zum Beispiel, wie die LED-Lichter leuchten sollen.
+Du musst dafür keinen Ordner herunterladen, sondern kopierst einfach den Programmtext direkt von unserer GitHub-Seite in ein neues Fenster.
+
+1. Öffne die Arduino IDE.
+2. Klicke oben links auf **„File“** und dann auf **„New“**, um ein neues Programm zu starten.
+3. Gehe auf die GitHub-Seite des Halloween-Hauses.
+4. Suche dort nach der Datei **„LED_Programmierung.ino“** im Ordner **„Code"**.
+5. Kopiere den gesamten Text aus der Datei.
+6. Füge ihn in das neue Fenster der Arduino IDE ein.
 <br><br>
 
 In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktionen des Würfels:
