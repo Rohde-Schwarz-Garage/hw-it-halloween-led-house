@@ -267,11 +267,6 @@ Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-5. Klebe den Chip genau in die Mitte der Plastikhalterung. Drücke ihn vorsichtig fest, damit er gut hält und später nicht verrutscht.
-
-<img src="../Bilder/5.jpg" alt="Bild 5" width="200">
-<br><br>
-
 6. Klebe den zweiten schmaleren Chip-Halter direkt anschließend an die Plastikhalterung und die Rückwand. Achte darauf, dass er bündig sitzt, damit später alles gut zusammenpasst.
 
 <img src="../Bilder/6.jpg" alt="Bild 6" width="200">
