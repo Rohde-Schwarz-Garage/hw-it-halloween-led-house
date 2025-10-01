@@ -359,14 +359,14 @@ Außerdem liegt er an dem anderen Chpihalter mit der kurzen Seite an
 <img src="../Bilder/N4.jpg" alt="Bild 7" width="200">
 <br><br>
 
-8. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
+10. Klebe die Vorderseite in die Bodenplatte.
 
-<img src="../Bilder/Ecken.jpg" alt="Bild verstreichen" width="200">
+<img src="../Bilder/N5.jpg" alt="Bild N5" width="200">
 <br><br>
 
-10. Klebe die Vorderseite in die Bodenplatte und verbinde die Ecken mit den Seitenwänden.
+8. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante.
 
-<img src="../Bilder/8.jpg" alt="Bild 8" width="200">
+<img src="../Bilder/N8.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
 11. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
