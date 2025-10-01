@@ -292,11 +292,11 @@ Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 
 # 4. Haus zusammenkleben
 
-Lass den Kleber etwa 10 Minuten vorheizen
-und sei beim Kleben schnell, denn Heißkleber kühlt rasch ab und wird sofort fest. Verwende ihn zum Zusammenkleben des Hauses – aber Vorsicht: Der Kleber wird sehr heiß! Lass dir unbedingt von einem Erwachsenen helfen, damit du dich nicht verbrennst.
+Zum Zusammenbau des Hauses verwendest du **Heißkleber und Sekundenkleber**. Lass den Heißkleber etwa **10 Minuten** vorheizen und sei beim Kleben schnell, denn er kühlt rasch ab und wird sofort fest. Sekundenkleber haftet extrem schnell und dauerhaft – arbeite daher **präzise und vorsichtig**.
 
-Tipp: Beim Kleben unbedingt darauf achten, dass alle Teile richtig sitzen und vollständig in den Aussparungen stecken.
-Wenn etwas schiefgeht, entferne die Kleberreste vorsichtig und schleife die Stelle leicht nach – so passt alles wieder sauber zusammen.
+**Tipp:** Trage beim Kleben **Schutzhandschuhe**, um **Hautkontakt** mit dem Kleber zu vermeiden. Sekundenkleber kann Haut verkleben, Heißkleber verursacht bei Berührung schmerzhafte Verbrennungen. Lass dir beim Kleben unbedingt von einem Erwachsenen helfen.
+
+Achte darauf, dass alle Teile **richtig** sitzen und **vollständig** in den Aussparungen stecken. Wenn etwas schiefgeht, **entferne die Kleberreste** vorsichtig und schleife die Stelle leicht nach – so passt alles wieder sauber zusammen.
 
 <img src="../Bilder/1.jpg" alt="Bild 1" width="200">
 <br><br>
