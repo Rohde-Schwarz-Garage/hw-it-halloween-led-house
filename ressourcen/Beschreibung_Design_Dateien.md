@@ -383,8 +383,8 @@ Achte darauf, dass die rechte Scheibe etwas größer ist als die linke. Ihre lan
 <img src="../Bilder/N7.jpg" alt="Bild 10" width="200">
 <br><br>
 
-13. gib in alle inneren Ecken des Hauses noch einmal eine kleine Ladung Heißkleber.
-Du musst den Kleber diesmal nicht verstreichen – er soll einfach für extra Halt sorgen.
+13. Zwischen den Chiphalter und die Frontscheibe musst du jetzt viel Heißkleber geben. Es ist nicht schlimm, wenn der Chip dabei etwas Kleber abbekommt – das sorgt sogar für mehr Stabilität.
+Anschließend gib in alle inneren Ecken des Hauses noch eine Spur Heißkleber für extra sicheren Halt
 
 <img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="200">
 <br><br>
