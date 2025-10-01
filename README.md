@@ -1,4 +1,4 @@
-<img src="Bilder/titel_bild.png" alt="Bild Haus" width="500" align="center">
+<img src="Bilder/titel_bild.png" alt="Bild Haus" width="100%">
 
 
 
