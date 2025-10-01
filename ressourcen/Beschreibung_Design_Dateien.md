@@ -188,9 +188,13 @@ Suche nach **MiniCore** und **installiere** es
 Chip-Einstellungen setzen:
 
 **Tools → Board → ATmega328PB (MiniCore)**
+
 **Tools → Clock → External 16 MHz**
+
 **Tools → Bootloader → Yes (UART0)**
+
 **Tools → Programmer → AVRISP mkII**
+
 **Tools → Port → Wähle den richtigen COM-Port**
 
 Tipp zum **COM-Port**:
