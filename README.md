@@ -4,7 +4,7 @@
 
 
 
-# Halloweenhaus – Bauanleitung für Zuhause
+# Programmierbares LED Halloween-Haus
 
 ## Projektbeschreibung
 
