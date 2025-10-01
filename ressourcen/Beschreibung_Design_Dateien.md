@@ -15,11 +15,11 @@ LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Ve
 
 Beim Öffnen der Datei kann ein Fenster erscheinen, das dich etwas fragen möchte. Klicke hier immer auf **„Nein“** – das ist wichtig, damit nichts verändert wird.
 
-<img src="../Bilder/nomaschine.png" alt="Frage" width="300">
+<img src="../Bilder/nomaschine.png" alt="Frage" width="100%">
 
 Öffne auf der linken Seite den Ordner „lightburn“. Dort siehst du die Dateien, die du gleich brauchst. Oben rechts ist ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
 
-<img src="../Bilder/download.png" alt="download" width="50">
+<img src="../Bilder/download.png" alt="download" width="100%">
 
 Manchmal sind die **LightBurn-Dateien** ziemlich groß. Damit du alles sehen kannst, musst du ein bisschen **herauszoomen** – das geht ganz einfach mit dem **Mausrad**. So bekommst du einen besseren Überblick, als würdest du ein großes Bild von weiter weg anschauen.
 
@@ -55,13 +55,13 @@ Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese R
 
 **Rot (02)**
 
-<img src="../Bilder/LB2.png" alt="Bild LB2" width="250">
+<img src="../Bilder/LB2.png" alt="Bild LB2" width="100%">
 <br><br>
 
 Speichere die Datei unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus.
 
-<img src="../Bilder/LB3.png" alt="Bild LB3" width="200">
-<img src="../Bilder/LB8.png" alt="Bild LB8" width="200">
+<img src="../Bilder/LB3.png" alt="Bild LB3" width="100%">
+<img src="../Bilder/LB8.png" alt="Bild LB8" width="100%">
 <br><br>
 
 Danach musst du noch ein paar wichtige Einstellungen überprüfen:
@@ -70,7 +70,7 @@ Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 2. Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
 
-<img src="../Bilder/LB5.png" alt="Bild LB5" width="350">
+<img src="../Bilder/LB5.png" alt="Bild LB5" width="100%">
 
 3. Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
 
@@ -78,16 +78,16 @@ Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht der richtige Wert für alle Schnitt Ebenen.
 
-<img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
+<img src="../Bilder/LB6.png" alt="Bild LB6" width="100%">
 <br><br>
 
 Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter auf „ON“ und klickst in LightBurn auf „Senden“.
 
-<img src="../Bilder/L1.jpg" alt="Schalter" width="200"> 
+<img src="../Bilder/L1.jpg" alt="Schalter" width="100%"> 
 
 Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, damit die Datei an den Lasercutter übertragen wird.
 
-<img src="../Bilder/name.png" alt="name Abfrage" width="350">
+<img src="../Bilder/name.png" alt="name Abfrage" width="100%">
 <br><br>
 
 1. Öffne die Klappe des Lasercutters und lege das Holz/Kunstoff vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
@@ -111,12 +111,12 @@ Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, da
 11. Mit dem Knopf **„Frame“** kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
     Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
     
-<img src="../Bilder/L2.jpg" alt="Bild L2" width="250">
+<img src="../Bilder/L2.jpg" alt="Bild L2" width="100%">
 <br><br>
 
 12. Wenn alles passt, drücke zuerst den **blau** leuchtenden **„Reset“-Knopf** – **wichtig**: der blaue Knopf darf nicht mehr leuchten, wenn du schneiden willst. Danach drückst du den **grünen „St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.
    
-<img src="../Bilder/L3.jpg" alt="Bild L3" width="150">
+<img src="../Bilder/L3.jpg" alt="Bild L3" width="100%">
 <br><br>
 
 Wenn du während des Laserns merkst, dass etwas nicht stimmt, kannst du jederzeit auf **„St/Pau“** oder **„Stop“** drücken, um den Vorgang zu unterbrechen.
@@ -149,7 +149,7 @@ Das ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – z
 
 **Bibliothek installieren**
 
-<img src="../Bilder/A1.png" alt="Bild A1" width="80">
+<img src="../Bilder/A1.png" alt="Bild A1" width="100%">
 <br><br>
 
 Öffne die Arduino IDE.
@@ -157,14 +157,14 @@ Das ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – z
 -Suche nach **„Adafruit NeoPixel by Adafruit“**.
 -**Installiere die Version 1.15.1** – sie sorgt dafür, dass die LED-Lichter später richtig gesteuert werden können.
 
-<img src="../Bilder/A2.png" alt="Bild A2" width="200">
+<img src="../Bilder/A2.png" alt="Bild A2" width="100%">
 <br><br>
 
 Nimm den Chip aus deinem Bausatz – das ist sozusagen das Gehirn deines Halloweenhauses.
 Er sorgt dafür, dass die LED-Lichter genau das tun, was du programmiert hast.
 Verbinde den Chip mit einem USB-C-Kabel mit deinem Computer.
 
-<img src="../Bilder/USBC.jpg" alt="Bild USB-C" width="200">
+<img src="../Bilder/USBC.jpg" alt="Bild USB-C" width="100%">
 <br><br>
 
 Damit der Chip funktioniert, brauchst du:
@@ -175,13 +175,13 @@ Damit der Chip funktioniert, brauchst du:
 Füge bei **„Additional Board Manager URLs“** diesen Link ein:
 **https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json**
 
-<img src="../Bilder/URL.png" alt="Bild URL" width="400">
+<img src="../Bilder/URL.png" alt="Bild URL" width="100%">
 <br><br>
 
 Gehe zu **Tools** → **Board** → **Board Manager**
 Suche nach **MiniCore** und **installiere** es
 
-<img src="../Bilder/Bib.png" alt="Bild URL" width="200">
+<img src="../Bilder/Bib.png" alt="Bild URL" width="100%">
 <br><br>
 
 
@@ -242,7 +242,7 @@ In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktion
 Oben links in der Arduino IDE siehst du einen Pfeil – das ist der **„Upload“-Button**.
 Klicke darauf, um den Code auf deinen Chip zu übertragen.
 
-<img src="../Bilder/A4.png" alt="Bild A4" width="80">
+<img src="../Bilder/A4.png" alt="Bild A4" width="100%">
 <br><br>
 
 Was passiert nach dem Hochladen?
@@ -280,12 +280,12 @@ Für die Verkabelung brauchst du sogenannte Steckleitungen:
 <br><br>
 Männlich bedeutet: mit einem festen Pin zum Einstecken.
 
-<img src="../Bilder/maennlich.jpg" alt="Bild Maennlich" width="250">
+<img src="../Bilder/maennlich.jpg" alt="Bild Maennlich" width="100%">
 <br><br>
 
 Weiblich bedeutet: mit einer Buchse zum Aufnehmen eines Pins.
 
-<img src="../Bilder/weiblich.jpg" alt="Bild weiblich" width="250">
+<img src="../Bilder/weiblich.jpg" alt="Bild weiblich" width="100%">
 <br><br>
 
 Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
@@ -300,7 +300,7 @@ und sei beim Kleben schnell, denn Heißkleber kühlt rasch ab und wird sofort fe
 Tipp: Beim Kleben unbedingt darauf achten, dass alle Teile richtig sitzen und vollständig in den Aussparungen stecken.
 Wenn etwas schiefgeht, entferne die Kleberreste vorsichtig und schleife die Stelle leicht nach – so passt alles wieder sauber zusammen.
 
-<img src="../Bilder/1.jpg" alt="Bild 1" width="200">
+<img src="../Bilder/1.jpg" alt="Bild 1" width="100%">
 <br><br>
 
 Damit beim Kleben nichts schmutzig wird, gehst du so vor:
@@ -308,26 +308,26 @@ Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 1. Lege ein paar Papiertücher auf deinen Tisch – das schützt die Fläche.
 2. Lege zwei Holzstäbchen unter die Bodenplatte, damit sie ein bisschen erhöht ist.
 
-<img src="../Bilder/Tuch.jpg" alt="Unterlage" width="200">
+<img src="../Bilder/Tuch.jpg" alt="Unterlage" width="100%">
 <br><br>
 
 1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.
    Du kannst vorsichtig von oben etwas Sekundenkleber in die kleinen Löcher tropfen lassen.
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
-<img src="../Bilder/2.jpg" alt="Bild 2" width="200">
+<img src="../Bilder/2.jpg" alt="Bild 2" width="100%">
 <br><br>
 
 2. Klebe den schmalen Chip-Halter hinten bündig in die Ecke der Bodenplatte.
 Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 
-<img src="../Bilder/AK3.jpg" alt="Bild 3" width="200">
+<img src="../Bilder/AK3.jpg" alt="Bild 3" width="100%">
 <br><br>
 
 3. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
 Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
-<img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
+<img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="100%">
 <br><br>
 
 4. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
@@ -336,7 +336,7 @@ Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) 
 Der Chip soll oben ein kleines Stück auf dem Chiphalter aufliegen, damit er stabil sitzt.
 Die linke schwarze Buchse auf dem Chip soll flach an der Rückwand anliegen.
 
-<img src="../Bilder/AK2.jpg" alt="Bild 6" width="200">
+<img src="../Bilder/AK2.jpg" alt="Bild 6" width="100%">
 <br><br>
 
 5. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
@@ -344,60 +344,60 @@ Die linke schwarze Buchse auf dem Chip soll flach an der Rückwand anliegen.
 Er liegt vorne an dem Chip mit der langen Seite an
 Er liegt an dem anderen Chpihalter mit der kurzen Seite an
 
-<img src="../Bilder/AK1.jpg" alt="Bild Knopf" width="200">
+<img src="../Bilder/AK1.jpg" alt="Bild Knopf" width="100%">
 <br><br>
 
 6. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
 
-<img src="../Bilder/LED.jpg" alt="Bild LED" width="200">
+<img src="../Bilder/LED.jpg" alt="Bild LED" width="100%">
 <br><br>
 
 7. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
 
-<img src="../Bilder/7.jpg" alt="Bild 7" width="200">
+<img src="../Bilder/7.jpg" alt="Bild 7" width="100%">
 <br><br>
 
 8. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
 
-<img src="../Bilder/Ecken.jpg" alt="Bild verstreichen" width="200">
+<img src="../Bilder/Ecken.jpg" alt="Bild verstreichen" width="100%">
 <br><br>
 
 10. Klebe die Vorderseite in die Bodenplatte und verbinde die Ecken mit den Seitenwänden.
 
-<img src="../Bilder/8.jpg" alt="Bild 8" width="200">
+<img src="../Bilder/8.jpg" alt="Bild 8" width="100%">
 <br><br>
 
 11. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
 
-<img src="../Bilder/9.jpg" alt="Bild 9" width="200">
+<img src="../Bilder/9.jpg" alt="Bild 9" width="100%">
 <br><br>
 
 12. Klebe die Seitenscheiben links und rechts auf.
 Sie passen genau in die Aussparungen der Seitenwände.
 Achte darauf, dass die rechte Scheibe etwas größer ist als die linke. Ihre lange Seite zeigt senkrecht nach oben – das wird die Höhe der Scheibe.
 
-<img src="../Bilder/10.jpg" alt="Bild 10" width="200">
+<img src="../Bilder/10.jpg" alt="Bild 10" width="100%">
 <br><br>
 
 13. gib in alle inneren Ecken des Hauses noch einmal eine kleine Ladung Heißkleber.
 Du musst den Kleber diesmal nicht verstreichen – er soll einfach für extra Halt sorgen.
 
-<img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="200">
+<img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="100%">
 <br><br>
 
 Tipp: Mach dir keine Sorgen, wenn es von innen etwas unordentlich aussieht – das passiert beim Basteln und ist völlig okay. Hauptsache, alles hält gut!
 
-<img src="../Bilder/fertig.jpg" alt="unordentlich" width="200">
+<img src="../Bilder/fertig.jpg" alt="unordentlich" width="100%">
 <br><br>
 
 14. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
 
-<img src="../Bilder/11.jpg" alt="Bild 11" width="200">
+<img src="../Bilder/11.jpg" alt="Bild 11" width="100%">
 <br><br>
 
 15. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
 
-<img src="../Bilder/12.jpg" alt="Bild 12" width="200">
+<img src="../Bilder/12.jpg" alt="Bild 12" width="100%">
 
 <br><br>
 <br><br>
