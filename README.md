@@ -30,7 +30,7 @@ Das Halloweenhaus ist ein DIY-Projekt für Kinder und Eltern, das Basteln, Techn
 - Button (Taster)
 - Heißkleber
 - Sekundenkleber
-- Plexiglas für die Fenster
+- Plexiglas 3mm und milchig für die Fenster
 - Holzplatten 4mm
 - Die bereitgestellten LightBurn-Dateien und Arduino-Code
 - Papiertücher
