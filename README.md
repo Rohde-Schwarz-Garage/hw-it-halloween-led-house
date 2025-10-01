@@ -1,8 +1,6 @@
 <img src="Bilder/titel_bild.png" alt="Bild Haus" width="100%">
 
-
-
-
+*Dieses Projekt ist neu bei uns. Hilf es uns zu verbessern :) Du kannst dieses GitHub Projekt gerne erweitern und anpassen!*
 
 # Programmierbares LED Halloween-Haus
 
