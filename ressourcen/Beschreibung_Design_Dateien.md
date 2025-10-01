@@ -180,7 +180,10 @@ Füge bei **„Additional Board Manager URLs“** diesen Link ein:
 
 Gehe zu **Tools** → **Board** → **Board Manager**
 Suche nach **MiniCore** und **installiere** es
+
+<img src="../Bilder/Bib.png" alt="Bild URL" width="200">
 <br><br>
+
 
 Chip-Einstellungen setzen:
 
