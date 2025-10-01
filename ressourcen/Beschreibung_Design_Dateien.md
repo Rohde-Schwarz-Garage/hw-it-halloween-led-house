@@ -297,6 +297,7 @@ Zum Zusammenbau des Hauses verwendest du **Heißkleber und Sekundenkleber**. Las
 **Tipp:** Trage beim Kleben **Schutzhandschuhe**, um **Hautkontakt** mit dem Kleber zu vermeiden. Sekundenkleber kann Haut verkleben, Heißkleber verursacht bei Berührung schmerzhafte Verbrennungen. Lass dir beim Kleben unbedingt von einem Erwachsenen helfen.
 
 Achte darauf, dass alle Teile **richtig** sitzen und **vollständig** in den Aussparungen stecken. Wenn etwas schiefgeht, **entferne die Kleberreste** vorsichtig und schleife die Stelle leicht nach – so passt alles wieder sauber zusammen.
+<br><br>
 
 <img src="../Bilder/1.jpg" alt="Bild 1" width="200">
 <br><br>
