@@ -175,7 +175,7 @@ Damit der Chip funktioniert, brauchst du:
 Füge bei **„Additional Board Manager URLs“** diesen Link ein:
 **https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json**
 
-<img src="../Bilder/URL.jpg" alt="Bild URL" width="200">
+<img src="../Bilder/URL.png" alt="Bild URL" width="200">
 <br><br>
 
 Gehe zu **Tools** → **Board** → **Board Manager**
