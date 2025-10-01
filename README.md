@@ -41,3 +41,5 @@ Das Halloweenhaus ist ein DIY-Projekt für Kinder und Eltern, das Basteln, Techn
 ---
 
 ## Viel Spaß beim Basteln und ein schaurig-schönes Halloween!
+
+[>Die Schritt-für-Schritt-Anleitung findest du hier!<](ressourcen/Beschreibung_Design_Dateien.md)
