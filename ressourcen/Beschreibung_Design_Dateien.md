@@ -143,13 +143,19 @@ Wenn alles passt, kannst du mit dem nächsten Schritt weitermachen: dem Programm
 
 # 2. Chip vorbereiten und programmieren
 
-Installiere zuerst die Arduino IDE auf deinem Computer.
-Öffne danach die Bibliotheksverwaltung – dort kannst du zusätzliche Funktionen für dein Projekt hinzufügen.
+**Installiere** zuerst die **Arduino IDE** auf deinem Computer.
+Das ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – zum Beispiel, wie die LED-Lichter leuchten sollen.
+<br><br>
+
+**Bibliothek installieren**
 
 <img src="../Bilder/A1.png" alt="Bild A1" width="80">
 <br><br>
 
-Installiere die Bibliothek **„Adafruit ****NeoPixel****“** (von Adafruit) in der Version **1.15.1** – sie sorgt später dafür, dass die LED-Lichter richtig gesteuert werden können.
+Öffne die Arduino IDE.
+-Gehe oben auf **„Tools“ → „Manage Libraries“**.
+-Suche nach **„Adafruit NeoPixel by Adafruit“**.
+-**Installiere die Version 1.15.1** – sie sorgt dafür, dass die LED-Lichter später richtig gesteuert werden können.
 
 <img src="../Bilder/A2.png" alt="Bild A2" width="200">
 <br><br>
@@ -161,15 +167,42 @@ Verbinde den Chip mit einem USB-C-Kabel mit deinem Computer.
 <img src="../Bilder/USBC.jpg" alt="Bild USB-C" width="200">
 <br><br>
 
-Die Arduino IDE ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – zum Beispiel, wie die LED-Lichter leuchten sollen.
-Du musst dafür keinen Ordner herunterladen, sondern kopierst einfach den Programmtext direkt von unserer GitHub-Seite in ein neues Fenster.
+Damit der Chip funktioniert, brauchst du:
 
-1. Öffne die Arduino IDE.
-2. Klicke oben links auf **„File“** und dann auf **„New“**, um ein neues Programm zu starten.
-3. Gehe auf die GitHub-Seite des Halloween-Hauses.
-4. Suche dort nach der Datei **„LED_Programmierung.ino“** im Ordner **„Code"**.
-5. Kopiere den gesamten Text aus der Datei.
-6. Füge ihn in das neue Fenster der Arduino IDE ein.
+**MiniCore-Erweiterung** für die Arduino IDE:
+
+Öffne **File** → **Preferences**
+Füge bei **„Additional Board Manager URLs“** diesen Link ein:
+**https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json**
+
+<img src="../Bilder/URL.jpg" alt="Bild URL" width="200">
+<br><br>
+
+Gehe zu **Tools** → **Board** → **Board Manager**
+Suche nach **MiniCore** und **installiere** es
+<br><br>
+
+Chip-Einstellungen setzen:
+
+**Tools → Board → ATmega328PB (MiniCore)**
+**Tools → Clock → External 16 MHz**
+**Tools → Bootloader → Yes (UART0)**
+**Tools → Programmer → AVRISP mkII**
+**Tools → Port → Wähle den richtigen COM-Port**
+
+Tipp zum **COM-Port**:
+
+Wenn du nicht weißt, welcher Port der richtige ist:
+
+Chip ausstecken
+Dann wieder einstecken
+Der neue Port, der erscheint, ist dein Chip
+<br><br>
+
+1. Gehe auf die GitHub-Seite des Halloween-Hauses.
+2. Suche dort nach der Datei **„LED_Programmierung.ino“** im Ordner **„Code"**.
+3. Kopiere den gesamten Text aus der Datei.
+4. Füge ihn in das neue Fenster der Arduino IDE ein.
 <br><br>
 
 In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktionen des Würfels:
@@ -190,7 +223,13 @@ Klicke darauf, um den Code auf deinen Chip zu übertragen.
 
 <img src="../Bilder/A4.png" alt="Bild A4" width="80">
 <br><br>
+
+Was passiert nach dem Hochladen?
+
+Wenn **keine Fehlermeldun**g erscheint, hat alles geklappt.
+Es kann sein, dass ein **Warnhinweis** erscheint – das ist normal und kann ignoriert werden.
 <br><br>
+
 
 # 3. Verkabeln 
 
