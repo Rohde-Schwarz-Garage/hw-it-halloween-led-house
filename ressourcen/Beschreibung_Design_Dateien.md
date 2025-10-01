@@ -351,7 +351,9 @@ Außerdem liegt er an dem anderen Chpihalter mit der kurzen Seite an
 
 6. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
 
-<img src="../Bilder/N7.jpg" alt="Bild LED" width="200">
+   Hier wird Heißkleber verwendet, nicht Sekundenkleber.
+
+<img src="../Bilder/N9.jpg" alt="Bild LED" width="200">
 <br><br>
 
 7. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
@@ -364,21 +366,21 @@ Außerdem liegt er an dem anderen Chpihalter mit der kurzen Seite an
 <img src="../Bilder/N5.jpg" alt="Bild N5" width="200">
 <br><br>
 
-8. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante.
+8. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante. Lass den Kleber etwa 1 Minute trocknen, damit alles schon etwas hält.
 
 <img src="../Bilder/N8.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
 11. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
 
-<img src="../Bilder/9.jpg" alt="Bild 9" width="200">
+<img src="../Bilder/N6.jpg" alt="Bild Frontscheibe" width="200">
 <br><br>
 
 12. Klebe die Seitenscheiben links und rechts auf.
 Sie passen genau in die Aussparungen der Seitenwände.
 Achte darauf, dass die rechte Scheibe etwas größer ist als die linke. Ihre lange Seite zeigt senkrecht nach oben – das wird die Höhe der Scheibe.
 
-<img src="../Bilder/10.jpg" alt="Bild 10" width="200">
+<img src="../Bilder/N7.jpg" alt="Bild 10" width="200">
 <br><br>
 
 13. gib in alle inneren Ecken des Hauses noch einmal eine kleine Ladung Heißkleber.
