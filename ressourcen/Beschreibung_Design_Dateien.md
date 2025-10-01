@@ -202,13 +202,18 @@ Tipp zum **COM-Port**:
 Wenn du nicht weißt, welcher Port der richtige ist:
 
 Stecke den Chip aus – also zieh das USB-Kabel vom Computer ab.
+
 Öffne in der Arduino IDE oben das Menü „Tools → Port“.
+
 Schau dir an, welche COM-Ports gerade angezeigt werden.
+
 Stecke den Chip wieder ein – also verbinde ihn erneut mit dem USB-Kabel.
+
 Gehe nochmal auf „Tools → Port“.
+
 Jetzt siehst du einen neuen COM-Port, der vorher nicht da war – das ist dein Chip!
 
-💡 So kannst du ganz sicher sein, dass du den richtigen Port ausgewählt hast.
+So kannst du ganz sicher sein, dass du den richtigen Port ausgewählt hast.
 <br><br>
 
 Jetzt musst du den Code einfügen:
