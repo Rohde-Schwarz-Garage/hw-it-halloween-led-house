@@ -351,12 +351,12 @@ Außerdem liegt er an dem anderen Chpihalter mit der kurzen Seite an
 
 6. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
 
-<img src="../Bilder/LED.jpg" alt="Bild LED" width="200">
+<img src="../Bilder/N7.jpg" alt="Bild LED" width="200">
 <br><br>
 
 7. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
 
-<img src="../Bilder/7.jpg" alt="Bild 7" width="200">
+<img src="../Bilder/N4.jpg" alt="Bild 7" width="200">
 <br><br>
 
 8. Gib einen dünnen Streifen Heißkleber in die inneren Ecken und verstreiche ihn mit einem kleinen Holzstück glatt. So sehen die Kanten sauber aus.
