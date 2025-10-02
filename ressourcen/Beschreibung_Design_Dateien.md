@@ -73,13 +73,10 @@ Speichere die Datei unter einem passenden Namen. Zusammen mit der Datei **„Kun
 Danach musst du noch ein paar wichtige Einstellungen überprüfen:
 
 1. Ist die richtige Position ausgewählt? Wähle **„Benutzerausgangsposition“**.
-
-2. Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
-
+1. Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
 <img src="../Bilder/LB5.png" alt="Bild LB5" width="350">
 
-3. Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
-
+1. Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
 **Max** ist dabei schon richtig eingestellt. Schau einfach, ob bei **Min** ein anderer Wert steht – wenn ja, ändere ihn so, dass er **genau** wie **Max** ist.
 
 Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht der richtige Wert für alle Schnitt Ebenen.
@@ -96,32 +93,23 @@ Dabei erscheint ein kleines Fenster – dort klickst du einfach auf „OK“, da
 <img src="../Bilder/name.png" alt="name Abfrage" width="350">
 <br><br>
 
-1. Öffne die Klappe des Lasercutters und lege das Holz/Kunstoff vorsichtig ein. Halte dabei die Klappe immer mit einer Hand fest.
-
-3. Richte das Brett so aus, dass es bündig in der oberen rechten Ecke liegt – das sorgt für einen sauberen Startpunkt.
-
-4. Drücke den Knopf **„File“ an der Maschine – damit wird die Datei geladen.
-
-5. Bestätige die Auswahl mit dem Knopf **„Enter“**.
-
-6. Mit den **Pfeiltasten** an der Maschine kannst du den Laser bewegen. Fahre ihn zur oberen rechten Ecke des Werkstücks – dort beginnt später der Schnitt.
-
-7. Öffne die Haube erneut und überprüfe die Höhe des Laserkopfs.
-
-8. Der Abstand zum Material sollte ** ca. 5mm**  betragen. Bei gewelltem Holz richte dich nach dem höchsten Punkt des Materials. Es ist nicht schlimm, wenn der Abstand an flacheren Stellen etwas größer ist – wichtig ist, dass der Laserkopf ** nirgendwo das Material berührt**  und möglichst gleichmäßig etwa 5mm darüber liegt.
-
-9. Falls nötig, kannst du den Laser vorsichtig nach unten ziehen, um die Höhe anzupassen
-
-10. Wenn alles richtig eingestellt ist, drücke den Knopf **„Origin“**. Damit setzt du den Startpunkt für den Laserschnitt.
-
-11. Mit dem Knopf **„Frame“** kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.
-    Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
+1. Öffne die Klappe des Lasercutters.
+Lege das Holz oder den Kunststoff vorsichtig ein.
+Halte die Klappe dabei immer mit einer Hand fest.
+1. Richte das Brett so aus, dass es bündig in der oberen rechten Ecke liegt – das sorgt für einen sauberen Startpunkt.
+1. Drücke den Knopf **„File“ an der Maschine – damit wird die Datei geladen.
+1. Bestätige die Auswahl mit dem Knopf **„Enter“**.
+1. Mit den **Pfeiltasten** an der Maschine kannst du den Laser bewegen. Fahre ihn zur oberen rechten Ecke des Werkstücks – dort beginnt später der Schnitt.
+1. Öffne die Haube erneut und überprüfe die Höhe des Laserkopfs.
+1. Der Abstand zum Material sollte ** ca. 5mm**  betragen. Bei gewelltem Holz richte dich nach dem höchsten Punkt des Materials. Es ist nicht schlimm, wenn der Abstand an flacheren Stellen etwas größer ist – wichtig ist, dass der Laserkopf ** nirgendwo das Material berührt**  und möglichst gleichmäßig etwa 5mm darüber liegt.
+1. Falls nötig, kannst du den Laser vorsichtig nach unten ziehen, um die Höhe anzupassen
+1. Wenn alles richtig eingestellt ist, drücke den Knopf **„Origin“**. Damit setzt du den Startpunkt für den Laserschnitt.
+1. Mit dem Knopf **„Frame“** kannst du prüfen, ob der Schnittbereich richtig auf dem Material liegt.    Wenn nicht, kannst du das Material vorsichtig verschieben oder die Objekte in LightBurn neu anordnen
     
 <img src="../Bilder/L2.jpg" alt="Bild L2" width="250">
 <br><br>
 
-12. Wenn alles passt, drücke zuerst den **blau** leuchtenden **„Reset“-Knopf** – **wichtig**: der blaue Knopf darf nicht mehr leuchten, wenn du schneiden willst. Danach drückst du den **grünen „St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.
-   
+1. Wenn alles passt, drücke zuerst den **blau** leuchtenden **„Reset“-Knopf** – **wichtig**: der blaue Knopf darf nicht mehr leuchten, wenn du schneiden willst. Danach drückst du den **grünen „St/Pau“-Knopf** (Start/Pause), um den Laservorgang zu starten.   
 <img src="../Bilder/L3.jpg" alt="Bild L3" width="150">
 <br><br>
 
@@ -228,8 +216,7 @@ Jetzt musst du den Code einfügen:
 
 1. Den Code findest du hier: [code/LED_Programmierung.ino](code/LED_Programmierung.ino).
 2. Kopiere den gesamten Text / Code aus der Datei.
-3. Füge ihn in das neue Fenster der Arduino IDE ein.
-<br><br>
+3. Füge ihn in das neue Fenster der Arduino IDE ein.<br><br>
 
 In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktionen des Würfels:
 
@@ -252,7 +239,7 @@ Klicke darauf, um den Code auf deinen Chip zu übertragen.
 
 Was passiert nach dem Hochladen?
 
-Wenn **keine Fehlermeldun**g erscheint, hat alles geklappt.
+Wenn **keine Fehlermeldung**g erscheint, hat alles geklappt.
 Es kann sein, dass ein **Warnhinweis** erscheint – das ist normal und kann ignoriert werden.
 <br><br>
 
@@ -260,18 +247,18 @@ Es kann sein, dass ein **Warnhinweis** erscheint – das ist normal und kann ign
 
 Den Code den du gerade kopiert hast, ist ein Beispiel-Code von uns. Probiere dich doch später einmal selbst daran, deine eigenen Farben oder Funktionen zu hinterlegen. Hier sind weiterführende Informationen dazu:
 
-- [YouTube Video mit Eklärungen zu "NeoPixel"](https://www.youtube.com/watch?v=nUn6TtDno_s)
+- [YouTube Video mit Erklärungen zu "NeoPixel"](https://www.youtube.com/watch?v=nUn6TtDno_s)
 - [Beispiele mit dem "NeoPixel"-Ring (Prinzip ist das gleiche)](https://blog.berrybase.de/neopixel-ring-mit-arduino-ansteuern-so-wirds-gemacht/)
 
 Wenn du tiefer in die Materie einsteigen möchtest (z.B. um später zuhause dein Projekt noch weiter zu individualisieren) schau dir mal diese Anleitung an: [https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/](https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/)
 
-KI-Tipp: Kopiere doch mal den Code in ChatGPT und frage  ChatGPT wie du den Code verändern musst, um z.B. deine gewünschten Farben oder Funktionen zu erhalten! (Hinweis: Du arbeitest mit einer NeoPixel LED und einem ARD-ONE-C ATmega 328PB Microcontroller.)
+KI-Tipp: Kopiere doch mal den Code in ChatGPT und frage  ChatGPT wie du den Code verändern musst, um z.B. deine gewünschten Farben oder Funktionen zu erhalten! (Hinweis: Du arbeitest mit einer NeoPixel LED und einem ATmega328PB Microcontroller.)
 
 # 4. Verkabeln 
 
 Jetzt geht es ans **Verkabeln** – damit dein Chip und die LED richtig miteinander sprechen können.
 
-**Wichtiger Hinweis**: Bevor du mit der Verkabelung beginnst, **trenne unbedingt die Stromversorgung vom Arduino-Chip**. So vermeidest du Kurzschlüsse und schützt die Bauteile vor Schäden. Erst wenn alle Kabel sicher verbunden sind, darf der Chip wieder mit Strom versorgt werden.
+> ⚠️ **Wichtiger Hinweis**: Bevor du mit der Verkabelung beginnst, **trenne unbedingt die Stromversorgung vom Arduino-Chip**. So vermeidest du Kurzschlüsse und schützt die Bauteile vor Schäden. Erst wenn alle Kabel sicher verbunden sind, darf der Chip wieder mit Strom versorgt werden.
 
 **Button:**
 
@@ -325,31 +312,26 @@ Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 
 1. Lege ein paar Papiertücher auf deinen Tisch – das schützt die Fläche.
 2. Lege zwei Holzstäbchen unter die Bodenplatte, damit sie ein bisschen erhöht ist.
-
 <img src="../Bilder/Tuch.jpg" alt="Unterlage" width="200">
 <br><br>
 
-1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.
-   Du kannst vorsichtig von oben etwas Sekundenkleber in die kleinen Löcher tropfen lassen.
+1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.   Du kannst vorsichtig von oben etwas Sekundenkleber in die kleinen Löcher tropfen lassen.
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
 <img src="../Bilder/2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-2. Klebe den schmalen Chip-Halter hinten bündig in die Ecke der Bodenplatte.
-Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
+1. Klebe den schmalen Chip-Halter hinten bündig in die Ecke der Bodenplatte.Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 
 <img src="../Bilder/AK3.jpg" alt="Bild 3" width="200">
 <br><br>
 
-3. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.
-Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
+1. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-4. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
-
+1. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
 Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
 Der Chip soll oben ein kleines Stück auf dem Chiphalter aufliegen, damit er stabil sitzt.
 Die linke schwarze Buchse auf dem Chip soll flach an der Rückwand anliegen.
@@ -359,51 +341,43 @@ Hier wird Heißkleber verwendet, nicht Sekundenkleber.
 <img src="../Bilder/N2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-5. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
-
+1. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
 Er liegt vorne an dem Chip mit der langen Seite an.
 
-Außerdem liegt er an dem anderen Chpihalter mit der kurzen Seite an
+Außerdem liegt er an dem anderen Chiphalter mit der kurzen Seite an
 
 <img src="../Bilder/N3.jpg" alt="Bild N3" width="200">
 <br><br>
 
-6. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
-
+1. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
    Hier wird Heißkleber verwendet, nicht Sekundenkleber.
 
 <img src="../Bilder/N9.jpg" alt="Bild LED" width="200">
 <br><br>
 
-7. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
-
+1. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
 <img src="../Bilder/N4.jpg" alt="Bild 7" width="200">
 <br><br>
 
-10. Klebe die Vorderseite in die Bodenplatte.
-
+1. Klebe die Vorderseite in die Bodenplatte.
 <img src="../Bilder/N5.jpg" alt="Bild N5" width="200">
 <br><br>
 
-8. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante. Lass den Kleber etwa 1 Minute trocknen, damit alles schon etwas hält.
-
+1. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante. Lass den Kleber etwa 1 Minute trocknen, damit alles schon etwas hält.
 <img src="../Bilder/N8.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
-11. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
-
+1. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
 <img src="../Bilder/N6.jpg" alt="Bild Frontscheibe" width="200">
 <br><br>
 
-12. Klebe die Seitenscheiben links und rechts auf.
-Sie passen genau in die Aussparungen der Seitenwände.
+1. Klebe die Seitenscheiben links und rechts auf.Sie passen genau in die Aussparungen der Seitenwände.
 Achte darauf, dass die rechte Scheibe etwas größer ist als die linke. Ihre lange Seite zeigt senkrecht nach oben – das wird die Höhe der Scheibe.
 
 <img src="../Bilder/N7.jpg" alt="Bild 10" width="200">
 <br><br>
 
-13. Zwischen den Chiphalter und die Frontscheibe musst du jetzt viel Heißkleber geben. Es ist nicht schlimm, wenn der Chip dabei etwas Kleber abbekommt – das sorgt sogar für mehr Stabilität.
-Anschließend gib in alle inneren Ecken des Hauses noch eine Spur Heißkleber für extra sicheren Halt
+1. Zwischen den Chiphalter und die Frontscheibe musst du jetzt viel Heißkleber geben. Es ist nicht schlimm, wenn der Chip dabei etwas Kleber abbekommt – das sorgt sogar für mehr Stabilität.Anschließend gib in alle inneren Ecken des Hauses noch eine Spur Heißkleber für extra sicheren Halt
 
 <img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="200">
 <br><br>
@@ -413,13 +387,11 @@ Tipp: Mach dir keine Sorgen, wenn es von innen etwas unordentlich aussieht – d
 <img src="../Bilder/fertig.jpg" alt="unordentlich" width="200">
 <br><br>
 
-14. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
-
+1. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
 <img src="../Bilder/11.jpg" alt="Bild 11" width="200">
 <br><br>
 
-15. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
-
+1. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
 <img src="../Bilder/12.jpg" alt="Bild 12" width="200">
 
 <br><br>
