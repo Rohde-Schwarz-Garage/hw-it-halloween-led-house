@@ -219,9 +219,8 @@ So kannst du ganz sicher sein, dass du den **richtigen** Port ausgewählt hast.
 Jetzt musst du den Code einfügen:
 
 1. Den Code findest du hier: [code/LED_Programmierung.ino](code/LED_Programmierung.ino).
-2. Suche dort nach der Datei **„LED_Programmierung.ino“** im Ordner **„Code"**.
-3. Kopiere den gesamten Text aus der Datei.
-4. Füge ihn in das neue Fenster der Arduino IDE ein.
+2. Kopiere den gesamten Text / Code aus der Datei.
+3. Füge ihn in das neue Fenster der Arduino IDE ein.
 <br><br>
 
 In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktionen des Würfels:
