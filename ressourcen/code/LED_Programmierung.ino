@@ -1,80 +1,108 @@
-// =============================================================
-// LED_Programmierung.ino — Erklärte Version
-// =============================================================
+// ======================================================================
+// LED_Programmierung.ino — Ausführlich kommentierte Lernversion (Deutsch)
+// Zielgruppe: Jugendliche. Nur Kommentare hinzugefügt; Code bleibt gleich.
+// Themen, die erklärt werden:
+//  • Was macht jede Variable und Funktion?
+//  • Wie funktioniert Entprellung (debounce) mit millis()?
+//  • Wie wird die Klickanzahl/Long‑Press erkannt (Zustandsautomat)?
+//  • Wie steuert Adafruit_NeoPixel die LEDs (show/Color/HSV)?
+//  • Sicherheitstipps (Strom trennen, GND gemeinsam).
+// ======================================================================
 
-// Bibliothek für adressierbare RGB-LEDs (WS2812/NeoPixel) einbinden
+// Bibliothek für adressierbare RGB‑LEDs (WS2812/NeoPixel). Stellt Klassen/Funktionen bereit, um Farben an einzelne LEDs zu senden.
 #include <Adafruit_NeoPixel.h>
 
-// An welchem Mikrocontroller-Pin das Datenkabel der LED-Strips hängt
+// Daten‑Pin des LED‑Streifens (DIN). Diesen Pin mit dem LED‑Eingang verbinden.
 #define LED_PIN     8
-// Wie viele LEDs hat dein Strip/Deine Kette insgesamt?
+// Anzahl der LEDs am Strip. Diese Zahl bestimmt Schleifen/Indizes in den Effekten.
 #define PIXELCOUNT  30
-// An diesem Pin ist der Taster angeschlossen
+// Pin des Tasters. Wird später mit digitalRead() abgefragt.
 #define BUTTON_PIN  2
 
-// NeoPixel-Objekt erstellen: Anzahl LEDs, Daten-Pin und Protokoll (GRB, 800 kHz)
+// NeoPixel‑Objekt anlegen: Parameter sind (Anzahl, Daten‑Pin, Farbreihenfolge+Protokoll).
+// NEO_GRB + NEO_KHZ800 = Standard für viele WS2812B‑LEDs (800 kHz, Farbreihenfolge GRB).
 Adafruit_NeoPixel strip(PIXELCOUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 
-// Verschiedene Anzeigemodi der LEDs (Zustandsautomat)
+// Enumeration (Aufzählung) von Betriebsarten. Erleichtert das Umschalten der LED‑Modi.
 enum Mode { FLAME, COLOR_SELECT, RAINBOW, RED_FLAME };
-// Aktueller Modus beim Start: FLAME
+// Startmodus beim Einschalten. Kann per Klicks/Long‑Press umgeschaltet werden.
 Mode currentMode = FLAME;
 
-// Merker: Sollen die LEDs überhaupt leuchten? (Ein/Aus)
+// Master‑Schalter: true = LEDs an; false = alle aus (Energiesparen / Pause).
 bool ledsOn = true;
-// Letzter bekannter Tasterzustand für Entprell-Logik
+// Für Entprellung: speichert den vorigen stabilen Tasterzustand (HIGH/LOW).
+// HIGH/LOW sind digitale Zustände: HIGH = 1 (5V), LOW = 0 (0V).
 bool lastButtonState = HIGH;
-// Aktuell gelesener Tasterzustand
+// Direkt gelesener Tasterzustand. Mit Entprell‑Logik wird daraus ein stabiler Zustand.
 bool currentButtonState;
-// Zeitstempel, wann der Taster zuletzt stabil wurde (für Entprellung)
+// Zeit (in ms, von millis()), wann die letzte Zustandsänderung des Tasters erkannt wurde.
 unsigned long lastDebounceTime = 0;
-// Entprell-Zeit in Millisekunden: kurze Störungen am Taster werden ignoriert
+// Mindestzeit (ms), die ein neuer Tasterzustand stabil sein muss, bevor wir ihn akzeptieren.
 const unsigned long debounceDelay = 50;
 
 unsigned long lastClickTime = 0;
+// Klickzähler: zählt kurze Tasterbetätigungen in einem Zeitfenster, um 1×, 2×, 3×, 4× zu unterscheiden.
 int clickCount = 0;
 unsigned long buttonPressStart = 0;
 
 uint16_t hue = 0;
+// Erstellt eine RGB‑Farbe. Reihenfolge hier passend zur NEO_GRB‑Konfiguration.
 uint32_t selectedColor = strip.Color(255, 100, 0); // Startfarbe
 
-// setup(): Läuft genau einmal beim Start. Pins/Bibliotheken initialisieren.
+// setup(): läuft genau einmal nach dem Einschalten/Reset. Initialisiert LEDs, Pins, Startwerte.
 void setup() {
+// Pin‑Modus für Taster. Tipp: INPUT_PULLUP nutzt internen Widerstand; Taster dann gegen GND schalten.
   pinMode(BUTTON_PIN, INPUT_PULLUP);
+// LED‑Objekt initialisieren. Muss vor setPixelColor()/show() aufgerufen werden.
   strip.begin();
+// Gesamthelligkeit (0–255) für alle LEDs (softwareseitig). Verringert Stromverbrauch/Blendung.
   strip.setBrightness(255);
-// Neue Pixel‑Daten an den LED‑Streifen senden
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
   strip.show();
   randomSeed(analogRead(0));
 }
 
-// loop(): Läuft immer wieder. Taster lesen, Modus wählen, LEDs updaten.
+// loop(): läuft unendlich oft. Liest Taster, aktualisiert Modus und rendert LED‑Effekte.
 void loop() {
+// Zugriff auf einen Pin. Bei Tastern: digitalRead(BUTTON_PIN) gibt HIGH/LOW zurück.
   currentButtonState = digitalRead(BUTTON_PIN);
 
   // Entprellung
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
   if (currentButtonState != lastButtonState) {
+// millis(): Zeit seit Start in Millisekunden. Nützlich für Entprellung/Animationen ohne delay().
     lastDebounceTime = millis();
   }
 
   // Button gedrückt
+// HIGH/LOW sind digitale Zustände: HIGH = 1 (5V), LOW = 0 (0V).
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
   if (lastButtonState == HIGH && currentButtonState == LOW) {
+// millis(): Zeit seit Start in Millisekunden. Nützlich für Entprellung/Animationen ohne delay().
     buttonPressStart = millis();
   }
 
   // Button losgelassen
+// HIGH/LOW sind digitale Zustände: HIGH = 1 (5V), LOW = 0 (0V).
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
   if (lastButtonState == LOW && currentButtonState == HIGH) {
+// millis(): Zeit seit Start in Millisekunden. Nützlich für Entprellung/Animationen ohne delay().
     unsigned long pressDuration = millis() - buttonPressStart;
 
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
     if (pressDuration >= 600) {
       // Langes Drücken → Farbwahl beenden
       currentMode = FLAME;
     } else {
       // Kurzer Klick
+// millis(): Zeit seit Start in Millisekunden. Nützlich für Entprellung/Animationen ohne delay().
       unsigned long now = millis();
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
       if (now - lastClickTime < 500) {
+// Klickzähler: zählt kurze Tasterbetätigungen in einem Zeitfenster, um 1×, 2×, 3×, 4× zu unterscheiden.
         clickCount++;
       } else {
+// Klickzähler: zählt kurze Tasterbetätigungen in einem Zeitfenster, um 1×, 2×, 3×, 4× zu unterscheiden.
         clickCount = 1;
       }
       lastClickTime = now;
@@ -82,103 +110,124 @@ void loop() {
   }
 
   // Klick-Auswertung nach Timeout
+// millis(): Zeit seit Start in Millisekunden. Nützlich für Entprellung/Animationen ohne delay().
+// Klickzähler: zählt kurze Tasterbetätigungen in einem Zeitfenster, um 1×, 2×, 3×, 4× zu unterscheiden.
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
   if ((millis() - lastClickTime) > 500 && clickCount > 0) {
-// Je nach Klickanzahl/Tasteraktion anderen Modus wählen
+// Klickzähler: zählt kurze Tasterbetätigungen in einem Zeitfenster, um 1×, 2×, 3×, 4× zu unterscheiden.
     switch (clickCount) {
-// 1× drücken: LEDs An/Aus umschalten
+// Auswertung einer Klickanzahl (1×, 2×, 3×, 4×) → Modus umschalten.
       case 1:
         ledsOn = !ledsOn;
+// Setzt alle Pixelpuffer auf Schwarz (0,0,0). Danach show() senden, damit es sichtbar wird.
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
         if (!ledsOn) { strip.clear(); strip.show(); }
         break;
-// 2× drücken: Regenbogen-Modus aktivieren
+// Auswertung einer Klickanzahl (1×, 2×, 3×, 4×) → Modus umschalten.
       case 2:
         currentMode = RAINBOW;
         break;
-// 3× drücken: Flammen-/Feuer‑Modus aktivieren
+// Auswertung einer Klickanzahl (1×, 2×, 3×, 4×) → Modus umschalten.
       case 3:
         currentMode = FLAME;
         break;
-// 4× drücken: Roter Flammen‑Modus aktivieren
+// Auswertung einer Klickanzahl (1×, 2×, 3×, 4×) → Modus umschalten.
       case 4:
         currentMode = RED_FLAME;
         break;
     }
-// Klickzähler zurücksetzen, damit neue Sequenzen erkannt werden
+// Klickzähler: zählt kurze Tasterbetätigungen in einem Zeitfenster, um 1×, 2×, 3×, 4× zu unterscheiden.
     clickCount = 0;
   }
 
   // Farbwahl während langem Drücken
+// millis(): Zeit seit Start in Millisekunden. Nützlich für Entprellung/Animationen ohne delay().
+// HIGH/LOW sind digitale Zustände: HIGH = 1 (5V), LOW = 0 (0V).
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
   if (currentButtonState == LOW && (millis() - buttonPressStart > 600)) {
     currentMode = COLOR_SELECT;
     hue += 200;
     if (hue > 65535) hue = 0;
+// HSV‑Farbraum: Farbton (Hue) über 0…65535; Sättigung/Helligkeit 0…255. Gut für Regenbogen/Übergänge.
     selectedColor = strip.gamma32(strip.ColorHSV(hue));
+// for‑Schleife: wiederholt Befehle mehrfach. Oft genutzt, um über alle LEDs zu iterieren.
     for (int i = 0; i < PIXELCOUNT; i++) {
+// Setzt die Farbe eines einzelnen Pixels (Index beginnt bei 0).
       strip.setPixelColor(i, selectedColor);
     }
-// Neue Pixel‑Daten an den LED‑Streifen senden
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
     strip.show();
-// Kurze Pause, um Effekte sichtbar zu machen / Timing zu steuern
+// delay(ms): einfache Pause. Achtung: blockiert loop(). Für reaktivere Steuerung besser millis() nutzen.
     delay(20);
   }
 
   lastButtonState = currentButtonState;
 
   // LED-Anzeige
+// if‑Bedingung: führt den Block nur aus, wenn die Bedingung wahr ist.
   if (ledsOn) {
-// Je nach Klickanzahl/Tasteraktion anderen Modus wählen
+// Zustandsautomat: je nach currentMode unterschiedliche Effekte berechnen/anzeigen.
     switch (currentMode) {
+// FLAME: Simuliert flackerndes Feuer (zufällige Helligkeit/Farbton im warmen Bereich).
       case FLAME:
         {
           uint8_t r = (selectedColor >> 16) & 0xFF;
           uint8_t g = (selectedColor >> 8) & 0xFF;
           uint8_t b = selectedColor & 0xFF;
+// for‑Schleife: wiederholt Befehle mehrfach. Oft genutzt, um über alle LEDs zu iterieren.
           for (int i = 0; i < PIXELCOUNT; i++) {
             float f = random(50, 100) / 100.0;
+// Setzt die Farbe eines einzelnen Pixels (Index beginnt bei 0).
             strip.setPixelColor(i, r*f, g*f, b*f);
           }
-// Neue Pixel‑Daten an den LED‑Streifen senden
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
           strip.show();
-// Kurze Pause, um Effekte sichtbar zu machen / Timing zu steuern
           delay(random(30, 80));
         }
         break;
 
+// RED_FLAME: Wie FLAME, aber stärker im roten Bereich (dramatischer Feuereffekt).
       case RED_FLAME:
         {
+// for‑Schleife: wiederholt Befehle mehrfach. Oft genutzt, um über alle LEDs zu iterieren.
           for (int i = 0; i < PIXELCOUNT; i++) {
             float f = random(50, 100) / 100.0;
+// Setzt die Farbe eines einzelnen Pixels (Index beginnt bei 0).
             strip.setPixelColor(i, 255*f, 30*f, 0);
           }
-// Neue Pixel‑Daten an den LED‑Streifen senden
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
           strip.show();
-// Kurze Pause, um Effekte sichtbar zu machen / Timing zu steuern
           delay(random(30, 80));
         }
         break;
 
+// RAINBOW: Farbverlauf über alle LEDs. Oft via HSV‑Farbton, der über die Zeit wandert.
       case RAINBOW:
         hue += 100;
         if (hue > 65535) hue = 0;
+// for‑Schleife: wiederholt Befehle mehrfach. Oft genutzt, um über alle LEDs zu iterieren.
         for (int i = 0; i < PIXELCOUNT; i++) {
           uint16_t pixelHue = hue + (i * 65536L / PIXELCOUNT);
+// Setzt die Farbe eines einzelnen Pixels (Index beginnt bei 0).
+// HSV‑Farbraum: Farbton (Hue) über 0…65535; Sättigung/Helligkeit 0…255. Gut für Regenbogen/Übergänge.
           strip.setPixelColor(i, strip.gamma32(strip.ColorHSV(pixelHue)));
         }
-// Neue Pixel‑Daten an den LED‑Streifen senden
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
         strip.show();
-// Kurze Pause, um Effekte sichtbar zu machen / Timing zu steuern
+// delay(ms): einfache Pause. Achtung: blockiert loop(). Für reaktivere Steuerung besser millis() nutzen.
         delay(30);
         break;
 
-// Farbwahl-Modus: Farbe während langem Drücken auswählen (wird oben gesteuert)
+// COLOR_SELECT: Farbe wird live während langem Drücken verändert (z. B. per Farbrad/HSV‑Wert).
       case COLOR_SELECT:
         // Wird oben gesteuert
         break;
     }
   } else {
-// Alle Pixel auf 0 setzen (schwarz/aus)
+// Setzt alle Pixelpuffer auf Schwarz (0,0,0). Danach show() senden, damit es sichtbar wird.
     strip.clear();
-// Neue Pixel‑Daten an den LED‑Streifen senden
+// Sendet die aktuellen Pixel‑Daten an den Strip. Ohne show() sieht man keine Änderung.
     strip.show();
   }
 }
