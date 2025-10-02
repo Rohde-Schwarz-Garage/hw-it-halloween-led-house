@@ -15,6 +15,8 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # 1. Laserdateien vorbereiten
 
+Hinweis: Die Laser-Dateien stellen später u.a. deine Gesichter dar, du kannst sie natürlich frei anpassen und gestalten.
+
 Öffne das Programm LightBurn **zweimal**. Das geht am einfachsten, wenn du unten in der Windows-Suchleiste nach **„LightBurn“** suchst und das Programm zweimal startest.
 
 LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Vektorgrafiken bearbeiten, Schnitt- und Gravurpfade festlegen und die finale Datei für den Lasercutter vorbereiten.
