@@ -25,7 +25,7 @@ Beim Öffnen der Datei kann ein Fenster erscheinen, das dich etwas fragen möcht
 
 <img src="../Bilder/nomaschine.png" alt="Frage" width="300">
 
-Öffne auf der linken Seite den Ordner „lightburn“. Dort siehst du die Dateien, die du gleich brauchst. Oben rechts ist ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
+Klicke hier in GitHub auf der linken Seite auf den Ordner „lightburn“. Dort siehst du die Dateien, die du gleich brauchst. Oben rechts ist ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
 
 <img src="../Bilder/download.png" alt="download" width="50">
 
