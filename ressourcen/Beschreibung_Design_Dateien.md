@@ -250,7 +250,7 @@ Es kann sein, dass ein **Warnhinweis** erscheint – das ist normal und kann ign
 
 # 3. Individualisieren
 
-Den Code den du gerade kopiert hast, ist ein Beispiel-Code von uns. Probiere dich doch einmal selbst daran, deine eigenen Farben oder Funktionen zu hinterlegen. Hier sind weiterführende Informationen dazu:
+Den Code den du gerade kopiert hast, ist ein Beispiel-Code von uns. Probiere dich doch später einmal selbst daran, deine eigenen Farben oder Funktionen zu hinterlegen. Hier sind weiterführende Informationen dazu:
 
 - [YouTube Video mit Eklärungen zu "NeoPixel"](https://www.youtube.com/watch?v=nUn6TtDno_s)
 - [Beispiele mit dem "NeoPixel"-Ring (Prinzip ist das gleiche)](https://blog.berrybase.de/neopixel-ring-mit-arduino-ansteuern-so-wirds-gemacht/)
@@ -298,6 +298,8 @@ Weiblich bedeutet: mit einer Buchse zum Aufnehmen eines Pins.
 Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 <br><br>
 <br><br>
+
+An dieser Stelle solltest du die Funktionen deines künftigen Halloween-Haus bereits einmal testen können.
 
 # 5. Haus zusammenkleben
 
