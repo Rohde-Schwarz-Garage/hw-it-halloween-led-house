@@ -181,7 +181,7 @@ Suche nach **MiniCore** und **installiere** es
 
 Chip-Einstellungen setzen:
 
-**Tools → Board → ATmega328PB (MiniCore)**
+**Tools → Board → MiniCore → ATmega328**
 
 **Tools → Clock → External 16 MHz**
 
