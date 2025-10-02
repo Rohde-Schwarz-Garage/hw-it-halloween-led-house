@@ -4,6 +4,14 @@ Der Kurs erklärt die grundlegende Bedienung, Sicherheitsregeln und wichtige Ein
 
 Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell für den Bau des Halloweenhauses.
 
+# Inhaltsverzeichnis
+
+- [1. Laserdateien vorbereiten](#1-laserdateien-vorbereiten)
+- [2. Chip vorbereiten und programmieren](#2-chip-vorbereiten-und-programmieren)
+- [3. Individualisieren](#3-individualisieren)
+- [4. Verkabeln ](#4-verkabeln)
+- [5. Haus zusammenkleben](#5-haus-zusammenkleben)
+- [Geschafft!](#geschafft)
 
 # 1. Laserdateien vorbereiten
 
