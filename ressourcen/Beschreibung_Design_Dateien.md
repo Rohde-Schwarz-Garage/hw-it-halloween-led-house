@@ -252,8 +252,8 @@ Es kann sein, dass ein **Warnhinweis** erscheint – das ist normal und kann ign
 
 Den Code den du gerade kopiert hast, ist ein Beispiel-Code von uns. Probiere dich doch einmal selbst daran, deine eigenen Farben oder Funktionen zu hinterlegen. Hier sind weiterführende Informationen dazu:
 
-- [https://www.youtube.com/watch?v=nUn6TtDno_s](YouTube Video mit Eklärungen zu "NeoPixel")
-- [https://blog.berrybase.de/neopixel-ring-mit-arduino-ansteuern-so-wirds-gemacht/](Beispiele mit dem "NeoPixel"-Ring (Prinzip ist das gleiche))
+- [YouTube Video mit Eklärungen zu "NeoPixel"](https://www.youtube.com/watch?v=nUn6TtDno_s)
+- [Beispiele mit dem "NeoPixel"-Ring (Prinzip ist das gleiche)](https://blog.berrybase.de/neopixel-ring-mit-arduino-ansteuern-so-wirds-gemacht/)
 
 Wenn du tiefer in die Materie einsteigen möchtest (z.B. um später zuhause dein Projekt noch weiter zu individualisieren) schau dir mal diese Anleitung an: [https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/](https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/)
 
