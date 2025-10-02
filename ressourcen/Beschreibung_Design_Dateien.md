@@ -248,8 +248,17 @@ Wenn **keine Fehlermeldun**g erscheint, hat alles geklappt.
 Es kann sein, dass ein **Warnhinweis** erscheint – das ist normal und kann ignoriert werden.
 <br><br>
 
+# 3. Individualisieren
 
-# 3. Verkabeln 
+Den Code den du gerade kopiert hast, ist ein Beispiel-Code von uns. Probiere dich doch einmal selbst daran, deine eigenen Farben oder Funktionen zu hinterlegen. Hier sind weiterführende Informationen dazu:
+
+- [https://www.youtube.com/watch?v=nUn6TtDno_s](YouTube Video mit Eklärungen zu "NeoPixel")
+- [https://blog.berrybase.de/neopixel-ring-mit-arduino-ansteuern-so-wirds-gemacht/](Beispiele mit dem "NeoPixel"-Ring (Prinzip ist das gleiche))
+
+Wenn du tiefer in die Materie einsteigen möchtest (z.B. um später zuhause dein Projekt noch weiter zu individualisieren) schau dir mal diese Anleitung an: [https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/](https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/)
+
+
+# 4. Verkabeln 
 
 Jetzt geht es ans **Verkabeln** – damit dein Chip und die LED richtig miteinander sprechen können.
 
@@ -289,7 +298,7 @@ Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 <br><br>
 <br><br>
 
-# 4. Haus zusammenkleben
+# 5. Haus zusammenkleben
 
 Zum Zusammenbau des Hauses verwendest du Sekundenkleber und Heißkleber. In der Regel wird **Sekundenkleber verwendet** – nur wenn **ausdrücklich angegeben**, kommt **Heißkleber** zum Einsatz. Lass den Heißkleber etwa **10 Minuten** vorheizen und sei beim Kleben schnell, denn er kühlt rasch ab und wird sofort fest. Sekundenkleber haftet extrem schnell und dauerhaft – arbeite daher **präzise und vorsichtig**.
 
