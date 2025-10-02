@@ -257,6 +257,7 @@ Den Code den du gerade kopiert hast, ist ein Beispiel-Code von uns. Probiere dic
 
 Wenn du tiefer in die Materie einsteigen möchtest (z.B. um später zuhause dein Projekt noch weiter zu individualisieren) schau dir mal diese Anleitung an: [https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/](https://raydiy.de/neopixel-mit-arduino-und-esp32-der-led-streifen-ultra-guide/)
 
+KI-Tipp: Kopiere doch mal den Code in ChatGPT und frage  ChatGPT wie du den Code verändern musst, um z.B. deine gewünschten Farben oder Funktionen zu erhalten! (Hinweis: Du arbeitest mit einer NeoPixel LED und einem ARD-ONE-C ATmega 328PB Microcontroller.)
 
 # 4. Verkabeln 
 
