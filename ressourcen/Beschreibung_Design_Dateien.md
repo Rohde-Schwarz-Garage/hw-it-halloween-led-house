@@ -139,6 +139,16 @@ Das Beispielbild zeigt **„30 / 30“**, aber dieser Wert ist **nicht** für al
 <img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
 <br><br>
 
+**Füll-Einstellungen prüfen**:<br>
+Mache in LightBurn einen **Doppelklick** auf die **Füll-Farbe** deiner Ebene.
+Im neuen Fenster siehst du unten die Auswahl **„Alle Formen auf einmal füllen“, „Gruppen zusammen füllen“ und „Formen einzeln füllen“**.
+Wähle hier **„Formen einzeln füllen“** aus.
+
+**Warum ist das wichtig**?<br>
+Dadurch werden die einzelnen Objekte **nacheinander gefüllt**, anstatt alles gleichzeitig – das spart **Zeit** und sorgt für saubere Gravuren.
+
+<img src="../Bilder/Schneiden.png" alt="Bild Füll-Einstellung" width="300"> <br><br>
+
 Wenn alle Einstellungen stimmen, schiebst du an der Maschine den Hauptschalter auf „ON“ und klickst in LightBurn auf „Senden“.
 
 <img src="../Bilder/L1.jpg" alt="Schalter" width="200"> 
