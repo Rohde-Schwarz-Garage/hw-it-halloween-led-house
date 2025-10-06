@@ -67,6 +67,7 @@ In der Datei **„Bausteine“** benötigst du folgende Teile:<br>
   5. Rückseite<br>
   6. Linke Seite<br>
   7. Rechte Seite<br>
+  
 Markiere diese Teile, kopiere sie **(Strg + C)** und füge sie in die Datei **Holzbauteile.lbrn2** ein **(Strg + V)**.
 
 Lege die Teile dort so auf der Fläche an, dass sie möglichst **wenig** Platz verbrauchen.
