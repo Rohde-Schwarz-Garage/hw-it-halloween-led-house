@@ -58,15 +58,15 @@ Manchmal sind die **LightBurn-Dateien** ziemlich groß. Damit du alles sehen kan
 Im ersten Fenster öffnest du die Datei **Kuerbis_Haus_Bausteine.lbrn2**.
 Im zweiten Fenster öffnest du die Datei **Holzbauteile.lbrn2**. Diese Datei wird später am Lasercutter ausgeführt.
 
-In der Datei **„Bausteine“** benötigst du folgende Teile:
+In der Datei **„Bausteine“** benötigst du folgende Teile:<br>
 
-Zubehör
-Deckel
-Boden
-Vorderseite
-Rückseite
-Linke Seite
-Rechte Seite
+Zubehör<br>
+Deckel<br>
+Boden<br>
+Vorderseite<br>
+Rückseite<br>
+Linke Seite<br>
+Rechte Seite<br>
 Markiere diese Teile, kopiere sie **(Strg + C)** und füge sie in die Datei **Holzbauteile.lbrn2** ein **(Strg + V)**.
 
 Lege die Teile dort so auf der Fläche an, dass sie möglichst **wenig** Platz verbrauchen.
