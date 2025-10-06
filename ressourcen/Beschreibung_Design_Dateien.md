@@ -102,13 +102,22 @@ Sie enthält die Schneidedateien für den Kunststoff, den du für dein Halloween
 <img src="../Bilder/LB8.png" alt="Bild LB8" width="200">
 <br><br>
 
-Danach musst du noch ein paar wichtige Einstellungen überprüfen:
+**Wichtige Einstellungen überprüfen**:<br>
+Bevor du mit dem Lasern beginnst, musst du noch ein paar wichtige Einstellungen in LightBurn kontrollieren.
 
-1. Ist die richtige Position ausgewählt? Wähle **„Benutzerausgangsposition“**.
-1. Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
+**Positionseinstellung**:<br>
+Wähle die Option „Benutzerausgangsposition“.
+
+**Wofür ist diese Einstellung**?<br>
+Sie legt fest, von welchem Punkt aus der Lasercutter mit dem Schneiden oder Gravieren **beginnt**.
+Mit **„Benutzerausgangsposition“** wird der Startpunkt auf die obere rechte Ecke des Schnittbereichs gesetzt. Dadurch kannst du den Laser frei im Arbeitsbereich positionieren und von dort aus den Schnitt starten.
+Das ist besonders hilfreich, wenn du dein Material manuell eingelegt hast oder flexibel auf unterschiedliche Werkstückgrößen reagieren willst.
 <img src="../Bilder/LB5.png" alt="Bild LB5" width="350">
 
-1. Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
+Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
+
+
+Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
 **Max** ist dabei schon richtig eingestellt. Schau einfach, ob bei **Min** ein anderer Wert steht – wenn ja, ändere ihn so, dass er **genau** wie **Max** ist.
 
 Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht der richtige Wert für alle Schnitt Ebenen.
