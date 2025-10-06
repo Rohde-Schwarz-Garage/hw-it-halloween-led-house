@@ -25,15 +25,15 @@ Was ist LightBurn?<br>
 LightBurn ist eine Software zur Steuerung von Lasercuttern. Mit ihr kannst du Vektorgrafiken bearbeiten, Schnitt- und Gravurpfade festlegen und die finale Datei für den Lasercutter vorbereiten.
 -->[LightBurn herunterladen](https://lightburnsoftware.com/pages/download-trial)
 
-LightBurn öffnen:<br>
-Öffne das Programm LightBurn **zweimal**. Das geht am einfachsten, wenn du unten in der Windows-Suchleiste nach **„LightBurn“** suchst und das Programm zweimal startest.
-
 Bearbeitung der Laserdateien:<br>
 Die Bearbeitung der Dateien erfolgt in der Garage.
 
 Zugriff auf den Lasercutter:<br>
 Der Rechner, über den du später auf den Lasercutter zugreifst, befindet sich im OG 1, direkt links nach dem Treppenhaus, dann rechts ganz durch bis in die Werkstatt.
 Es ist der zweite Rechner auf der linken Seite.
+
+LightBurn öffnen:<br>
+Öffne das Programm LightBurn **zweimal**. Das geht am einfachsten, wenn du unten in der Windows-Suchleiste nach **„LightBurn“** suchst und das Programm zweimal startest.
 
 Beim Öffnen der Datei kann ein Fenster erscheinen, das dich etwas fragen möchte. Klicke hier immer auf **„Nein“** – das ist wichtig, damit nichts verändert wird.
 
