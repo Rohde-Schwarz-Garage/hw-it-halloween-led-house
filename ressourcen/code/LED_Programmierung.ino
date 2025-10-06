@@ -204,7 +204,7 @@ void loop() {
       // RAINBOW: uniforme Farbe wechselt automatisch über den HSV-Farbkreis
       case RAINBOW: {
         static uint16_t hueSolid = 0;       // eigener Hue, unabhängig vom globalen hue
-        const uint16_t step = 1024;         // Schrittweite pro Frame (größer = schneller)
+        const uint16_t step = 128;         // Schrittweite pro Frame (größer = schneller)
 
         hueSolid += step;
         if (hueSolid >= 65536) hueSolid -= 65536;
