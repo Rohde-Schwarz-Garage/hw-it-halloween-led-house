@@ -91,7 +91,7 @@ Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese R
 
 **Rot (02)**
 
-<img src="../Bilder/LB2.png" alt="Bild LB2" width="250">
+<img src="../Bilder/Flächen.png" alt="Bild LB2" width="250">
 <br><br>
 
 **Dateien speichern**:<br>
