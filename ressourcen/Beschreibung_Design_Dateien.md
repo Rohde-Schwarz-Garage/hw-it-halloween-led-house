@@ -91,7 +91,12 @@ Lege im rechten Fenster die Reihenfolge der Laserarbeiten fest. Verwende diese R
 <img src="../Bilder/LB2.png" alt="Bild LB2" width="250">
 <br><br>
 
-Speichere die Datei unter einem passenden Namen. Zusammen mit der Datei **„Kunststoffbauteile“** hast du nun alle Bauteile für dein Halloweenhaus.
+**Dateien speichern**:<br>
+Speichere die bearbeitete Datei unter einem passenden Namen, z. B. „Mein_Halloweenhaus“.
+
+**Zusätzliche Datei „Kunststoffbauteile“**:<br>
+Diese Datei findest du ebenfalls im GitHub-Ordner **"lightburn"**.
+Sie enthält die Schneidedateien für den Kunststoff, den du für dein Halloweenhaus brauchst.
 
 <img src="../Bilder/LB3.png" alt="Bild LB3" width="200">
 <img src="../Bilder/LB8.png" alt="Bild LB8" width="200">
