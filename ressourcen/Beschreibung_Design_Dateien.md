@@ -268,7 +268,7 @@ Jetzt musst du den Code einfügen:
 
 1. Den Code findest du hier: [code/LED_Programmierung.ino](code/LED_Programmierung.ino).
 2. Kopiere den gesamten Text / Code aus der Datei.
-3. Füge ihn in das neue Fenster der Arduino IDE ein.<br><br>
+3. Öffne die **Arduino IDE** und füge den kopierten Code in ein **neues** Fenster ein. **Ersetz**e dabei den **gesamten vorhandenen Beispielcode**, sodass nur noch der neue LED-Code im Fenster steht.<br><br>
 
 In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktionen des Würfels:
 
