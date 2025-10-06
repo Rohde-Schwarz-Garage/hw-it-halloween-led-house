@@ -111,7 +111,8 @@ Wähle die Option „Benutzerausgangsposition“.
 **Wofür ist diese Einstellung**?<br>
 Sie legt fest, von welchem Punkt aus der Lasercutter mit dem Schneiden oder Gravieren **beginnt**.
 Mit **„Benutzerausgangsposition“** wird der Startpunkt auf die obere rechte Ecke des Schnittbereichs gesetzt. Dadurch kannst du den Laser frei im Arbeitsbereich positionieren und von dort aus den Schnitt starten.
-Das ist besonders hilfreich, wenn du dein Material manuell eingelegt hast oder flexibel auf unterschiedliche Werkstückgrößen reagieren willst.
+Das ist besonders hilfreich, wenn du dein Material manuell eingelegt hast oder flexibel auf unterschiedliche Werkstückgrößen reagieren willst.<br>
+
 <img src="../Bilder/LB5.png" alt="Bild LB5" width="350">
 
 Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
