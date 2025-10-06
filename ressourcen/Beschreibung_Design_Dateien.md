@@ -213,7 +213,7 @@ Verbinde den Microcontroller mit einem USB-C-Kabel mit deinem Computer.
 <img src="../Bilder/USBC.jpg" alt="Bild USB-C" width="200">
 <br><br>
 
-Damit der Chip funktioniert, brauchst du:
+Damit der Microcontroller funktioniert, brauchst du:
 
 **MiniCore-Erweiterung** für die Arduino IDE:
 
@@ -346,7 +346,7 @@ Du brauchst passende Kombinationen, damit alles gut verbunden werden kann.
 <br><br>
 <br><br>
 
-An dieser Stelle solltest du die Funktionen deines künftigen Halloween-Haus bereits einmal testen können.
+Nachdem du alles miteinander verbunden hast solltest du die Funktionen deines künftigen Halloween-Haus bereits einmal testen können.
 
 # 5. Haus zusammenkleben
 
@@ -373,22 +373,25 @@ Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 <img src="../Bilder/2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-1. Klebe den schmalen Chip-Halter hinten bündig in die Ecke der Bodenplatte.Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
+1. Klebe den schmalen Microcontroller-Halter hinten bündig in die Ecke der Bodenplatte.Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 
 <img src="../Bilder/AK3.jpg" alt="Bild 3" width="200">
 <br><br>
 
-1. Bevor du den Chip befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
+1. Bevor du den Microcontroller befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-1. Jetzt wird der Chip auf den Chiphalter geklebt. So geht’s:
-Lege den Chip so an den Chiphalter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
-Der Chip soll oben ein kleines Stück auf dem Chiphalter aufliegen, damit er stabil sitzt.
-Die linke schwarze Buchse auf dem Chip soll flach an der Rückwand anliegen.
+1. Jetzt wird der Microcontroller auf den halter geklebt. So geht’s:
 
 Hier wird Heißkleber verwendet, nicht Sekundenkleber.
+
+Lege den Microcontroller so an den halter dran, dass die Pins (die silbernen Beinchen) gut anliegen.
+Der Microcontroller soll oben ein kleines Stück auf dem halter aufliegen, damit er stabil sitzt.
+Die linke schwarze Buchse soll flach an der Rückwand anliegen.
+
+
 
 <img src="../Bilder/N2.jpg" alt="Bild 2" width="200">
 <br><br>
