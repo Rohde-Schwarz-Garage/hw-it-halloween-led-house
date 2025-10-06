@@ -213,7 +213,7 @@ Das ist ein Programm, mit dem du deinem Microcontroller sagen kannst, was er tun
 
 Öffne die Arduino IDE.
 -Gehe oben auf **„Tools“ → „Manage Libraries“**.
--Suche nach **„Adafruit NeoPixel by Adafruit“**.
+-Suche nach **„Adafruit NeoPixel“**.
 -**Installiere die Version 1.15.1** – sie sorgt dafür, dass die LED-Lichter später richtig gesteuert werden können.
 
 <img src="../Bilder/A2.png" alt="Bild A2" width="200">
