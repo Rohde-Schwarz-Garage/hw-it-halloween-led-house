@@ -50,6 +50,7 @@ Klicke in GitHub auf der linken Seite auf den Ordner „lightburn“. Dort finde
 
 **Download der Datei**:<br>
 Oben rechts im GitHub-Fenster befindet sich ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
+
 <img src="../Bilder/download.png" alt="download" width="50">
 
 Manchmal sind die **LightBurn-Dateien** ziemlich groß. Damit du alles sehen kannst, musst du ein bisschen **herauszoomen** – das geht ganz einfach mit dem **Mausrad**. So bekommst du einen besseren Überblick, als würdest du ein großes Bild von weiter weg anschauen.
