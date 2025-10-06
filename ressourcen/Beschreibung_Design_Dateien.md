@@ -45,8 +45,11 @@ Beim Öffnen der Datei kann ein Fenster erscheinen, das dich etwas fragen möcht
 
 <img src="../Bilder/nomaschine.png" alt="Frage" width="300">
 
-Klicke hier in GitHub auf der linken Seite auf den Ordner „lightburn“. Dort siehst du die Dateien, die du gleich brauchst. Oben rechts ist ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
+**Dateien aus dem Baukasten verwenden**:<br>
+Klicke in GitHub auf der linken Seite auf den Ordner „lightburn“. Dort findest du die Vorlagen, die du gleich brauchst.
 
+**Download der Datei**:<br>
+Oben rechts im GitHub-Fenster befindet sich ein kleiner Pfeil nach unten – das ist der Download-Knopf. Wenn du darauf klickst, wird die Datei auf deinen Computer heruntergeladen.
 <img src="../Bilder/download.png" alt="download" width="50">
 
 Manchmal sind die **LightBurn-Dateien** ziemlich groß. Damit du alles sehen kannst, musst du ein bisschen **herauszoomen** – das geht ganz einfach mit dem **Mausrad**. So bekommst du einen besseren Überblick, als würdest du ein großes Bild von weiter weg anschauen.
