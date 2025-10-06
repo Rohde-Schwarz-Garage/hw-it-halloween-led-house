@@ -206,9 +206,9 @@ Das ist ein Programm, mit dem du deinem Microcontroller sagen kannst, was er tun
 <img src="../Bilder/A2.png" alt="Bild A2" width="200">
 <br><br>
 
-Nimm den Chip aus deinem Bausatz – das ist sozusagen das Gehirn deines Halloweenhauses.
+Nimm den Microcontroller aus deinem Bausatz – das ist sozusagen das Gehirn deines Halloweenhauses.
 Er sorgt dafür, dass die LED-Lichter genau das tun, was du programmiert hast.
-Verbinde den Chip mit einem USB-C-Kabel mit deinem Computer.
+Verbinde den Microcontroller mit einem USB-C-Kabel mit deinem Computer.
 
 <img src="../Bilder/USBC.jpg" alt="Bild USB-C" width="200">
 <br><br>
@@ -231,7 +231,7 @@ Suche nach **MiniCore** und **installiere** es
 <br><br>
 
 
-Chip-Einstellungen setzen:
+**Nimm nun folgende Einstellungen in der Software vor**:
 
 **Tools → Board → MiniCore → ATmega328**
 
@@ -249,17 +249,17 @@ Tipp zum **COM-Port**:
 
 Wenn du **nicht** weißt, welcher Port der richtige ist:
 
-Stecke den Chip **aus** – also zieh das USB-Kabel vom Computer ab.
+1. Stecke den Microcontroller **aus** – also zieh das USB-Kabel vom Computer ab.
 
-Öffne in der **Arduino IDE** oben das Menü **„Tools → Port“**.
+2. Öffne in der **Arduino IDE** oben das Menü **„Tools → Port“**.
 
-Schau dir an, welche COM-Ports gerade angezeigt werden.
+3. Schau dir an, welche COM-Ports gerade angezeigt werden.
 
-Stecke den Chip wieder **ein** – also verbinde ihn erneut mit dem USB-Kabel.
+4. Stecke den Chip wieder **ein** – also verbinde ihn erneut mit dem USB-Kabel.
 
-Gehe nochmal auf **„Tools → Port“**.
+5. Gehe nochmal auf **„Tools → Port“**.
 
-Jetzt siehst du einen neuen **COM-Port**, der vorher nicht da war – **das ist dein Chip!**
+6. Jetzt siehst du einen neuen **COM-Port**, der vorher nicht da war – **das ist dein Microcontroller!**
 
 So kannst du ganz sicher sein, dass du den **richtigen** Port ausgewählt hast.
 <br><br>
