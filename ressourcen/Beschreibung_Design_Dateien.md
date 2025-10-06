@@ -6,14 +6,14 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # Inhaltsverzeichnis
 
-- [1. Laserdateien vorbereiten](#1-laserdateien-vorbereiten) (1 Stunde + 2,5 Stunden Laserung)
+- [1. Laserdateien vorbereiten](#1-laserdateien-vorbereiten) (1 Stunde + 2,5 Stunden Laserung)<br>
     Material: lightburn, Lightburn dateien, Kunstoff, Holz,  
-- [2. Chip vorbereiten und programmieren](#2-chip-vorbereiten-und-programmieren) (30min)
+- [2. Chip vorbereiten und programmieren](#2-chip-vorbereiten-und-programmieren) (30min)<br>
     Material: Chip, USB-Kabel, Arduino IDE Software
-- [3. Individualisieren](#3-individualisieren) (individuell)
-- [4. Verkabeln ](#4-verkabeln) (30min)
+- [3. Individualisieren](#3-individualisieren) (individuell)<br>
+- [4. Verkabeln ](#4-verkabeln) (30min)<br>
     Material: Chip, LED, Button, Leitungen
-- [5. Haus zusammenkleben](#5-haus-zusammenkleben) (1 Stunde)
+- [5. Haus zusammenkleben](#5-haus-zusammenkleben) (1 Stunde)<br>
     Material: Sekundenkleber, Heißkleber, Papiertücher, Holzleisten, Feile,
 - [Geschafft!](#geschafft)
 
