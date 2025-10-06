@@ -33,7 +33,7 @@ Die Bearbeitung der Dateien erfolgt in der **Garage**.
 
 Zugriff auf den Lasercutter:<br>
 Der Rechner, über den du später auf den Lasercutter zugreifst, befindet sich im **OG 1**, direkt links nach dem Treppenhaus, dann **rechts** ganz durch bis in die **Werkstatt**.
-Es ist der **zweite** Rechner auf der **linken** Seite.
+Es ist der **dritte** Rechner auf der **linken** Seite.
 
 <img src="../Bilder/Arbeitsplatz.jpg" alt="Arbeitsplatz" width="400">
 <br><br>
