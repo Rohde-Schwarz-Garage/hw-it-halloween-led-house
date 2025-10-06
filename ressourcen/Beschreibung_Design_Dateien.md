@@ -115,7 +115,8 @@ Das ist besonders hilfreich, wenn du dein Material manuell eingelegt hast oder f
 
 <img src="../Bilder/LB5.png" alt="Bild LB5" width="350">
 
-Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
+**Ist die richtige Maschine eingestellt**?<br>
+Wähle **„Laser“** als Gerätetyp in LightBurn.
 
 
 **Leistungseinstellungen prüfen**:<br>
