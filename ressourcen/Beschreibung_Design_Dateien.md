@@ -255,7 +255,7 @@ Wenn du **nicht** weißt, welcher Port der richtige ist:
 
 3. Schau dir an, welche COM-Ports gerade angezeigt werden.
 
-4. Stecke den Chip wieder **ein** – also verbinde ihn erneut mit dem USB-Kabel.
+4. Stecke den Microcontroller wieder **ein** – also verbinde ihn erneut mit dem USB-Kabel.
 
 5. Gehe nochmal auf **„Tools → Port“**.
 
@@ -270,7 +270,7 @@ Jetzt musst du den Code einfügen:
 2. Kopiere den gesamten Text / Code aus der Datei.
 3. Öffne die **Arduino IDE** und füge den kopierten Code in ein **neues** Fenster ein. **Ersetz**e dabei den **gesamten vorhandenen Beispielcode**, sodass nur noch der neue LED-Code im Fenster steht.<br><br>
 
-In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktionen des Würfels:
+In dieser Datei steht, wie sich dein Microcontroller verhalten soll. In unserem Beispiel-Code ist folgendes verhalten programmiert:
 
 **1x drücken** = An / Aus
 
@@ -284,7 +284,7 @@ In dieser Datei steht, wie sich dein Chip verhalten soll. Hier sind die Funktion
 <br><br>
 
 Oben links in der Arduino IDE siehst du einen Pfeil – das ist der **„Upload“-Button**.
-Klicke darauf, um den Code auf deinen Chip zu übertragen.
+Klicke darauf, um den Code auf deinen Microcontroller zu übertragen.
 
 <img src="../Bilder/A4.png" alt="Bild A4" width="80">
 <br><br>
@@ -308,9 +308,9 @@ KI-Tipp: Kopiere doch mal den Code in ChatGPT und frage  ChatGPT wie du den Code
 
 # 4. Verkabeln 
 
-Jetzt geht es ans **Verkabeln** – damit dein Chip und die LED richtig miteinander sprechen können.
+Jetzt geht es ans **Verkabeln** – damit dein Microcontroller und die LED richtig miteinander sprechen können.
 
-> ⚠️ **Wichtiger Hinweis**: Bevor du mit der Verkabelung beginnst, **trenne unbedingt die Stromversorgung vom Arduino-Chip**. So vermeidest du Kurzschlüsse und schützt die Bauteile vor Schäden. Erst wenn alle Kabel sicher verbunden sind, darf der Chip wieder mit Strom versorgt werden.
+> ⚠️ **Wichtiger Hinweis**: Bevor du mit der Verkabelung beginnst, **trenne unbedingt die Stromversorgung vom Arduino-Microcontroller**. So vermeidest du Kurzschlüsse und schützt die Bauteile vor Schäden. Erst wenn alle Kabel sicher verbunden sind, darf der Microcontroller wieder mit Strom versorgt werden.
 
 **Button:**
 
@@ -322,11 +322,11 @@ Die andere Seite an **2**
 
 **LED:**
 
-**Data-In** kommt an **8**
+**Data-In** kommt an **8 von Microcontroller**
 
-**+5V** kommt an **5V**
+**+5V** kommt an **5V von Microcontroller**
 
-**GND** kommt an **GND**
+**GND** kommt an **GND von Microcontroller**
 
 Achte darauf, dass alle Verbindungen fest sitzen – so funktioniert später alles zuverlässig.
 
