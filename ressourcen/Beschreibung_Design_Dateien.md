@@ -118,10 +118,19 @@ Das ist besonders hilfreich, wenn du dein Material manuell eingelegt hast oder f
 Ist die richtige Maschine eingestellt? Wähle **„Laser“**.
 
 
-Bei **„Leistung Min“** und **„Leistung Max“** muss derselbe Wert eingestellt sein.
-**Max** ist dabei schon richtig eingestellt. Schau einfach, ob bei **Min** ein anderer Wert steht – wenn ja, ändere ihn so, dass er **genau** wie **Max** ist.
+**Leistungseinstellungen prüfen**:<br>
+In LightBurn gibt es zwei Werte für die Laserleistung: „Leistung Min“ und „Leistung Max“.
 
-Das Bild unten ist nur ein Beispiel – dort steht 30 / 30, aber das ist nicht der richtige Wert für alle Schnitt Ebenen.
+Damit der Laser gleichmäßig schneidet, müssen beide Werte identisch sein.
+**„Leistung Max“** ist meistens schon korrekt eingestellt.
+Schau deshalb bei **„Leistung Min“** nach – wenn dort ein anderer Wert steht, ändere ihn so, dass er **genau** wie bei Max ist.
+
+**Warum ist das wichtig**?<br>
+Wenn **„Min“ und „Max“** unterschiedlich sind, kann der Laser an langsamen Stellen (z. B. bei Kurven) weniger Leistung geben – das führt zu unvollständigen Schnitten.
+Gleiche Werte sorgen für gleichmäßige Schnittqualität.
+
+Hinweis:<br>
+Das Beispielbild zeigt **„30 / 30“**, aber dieser Wert ist **nicht** für alle Schnitt-Ebenen geeignet. Die tatsächliche Leistung hängt vom Material und der Schnittgeschwindigkeit ab.
 
 <img src="../Bilder/LB6.png" alt="Bild LB6" width="350">
 <br><br>
