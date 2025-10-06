@@ -8,11 +8,11 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 - [1. Laserdateien vorbereiten](#1-laserdateien-vorbereiten) (1 Stunde + 2,5 Stunden Laserung)<br>
     Material: lightburn, Lightburn dateien, Kunstoff, Holz,  
-- [2. Chip vorbereiten und programmieren](#2-chip-vorbereiten-und-programmieren) (30min)<br>
-    Material: Chip, USB-Kabel, Arduino IDE Software
+- [2. Microcontroller vorbereiten und programmieren](#2-Microcontroller-vorbereiten-und-programmieren) (30min)<br>
+    Material: Microcontroller, USB-Kabel, Arduino IDE Software
 - [3. Individualisieren](#3-individualisieren) (individuell)<br>
 - [4. Verkabeln ](#4-verkabeln) (30min)<br>
-    Material: Chip, LED, Button, Leitungen
+    Material: Microcontroller, LED, Button, Leitungen
 - [5. Haus zusammenkleben](#5-haus-zusammenkleben) (1 Stunde)<br>
     Material: Sekundenkleber, Heißkleber, Papiertücher, Holzleisten, Feile,
 - [Geschafft!](#geschafft)
@@ -187,10 +187,10 @@ Wenn alles passt, kannst du mit dem nächsten Schritt weitermachen: dem Programm
 <br><br>
 <br><br>
 
-# 2. Chip vorbereiten und programmieren
+# 2. Microcontroller vorbereiten und programmieren
 
-**Installiere** zuerst die **Arduino IDE** auf deinem Computer.
-Das ist ein Programm, mit dem du deinem Chip sagen kannst, was er tun soll – zum Beispiel, wie die LED-Lichter leuchten sollen.
+**Installiere** zuerst die **[Arduino IDE](https://www.arduino.cc/en/software/)** auf deinem Computer.
+Das ist ein Programm, mit dem du deinem Microcontroller sagen kannst, was er tun soll – zum Beispiel, wie die LED-Lichter leuchten sollen.
 <br><br>
 
 **Bibliothek installieren**
