@@ -367,23 +367,23 @@ Damit beim Kleben nichts schmutzig wird, gehst du so vor:
 <img src="../Bilder/Tuch.jpg" alt="Unterlage" width="200">
 <br><br>
 
-1. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.   Du kannst vorsichtig von oben etwas Sekundenkleber in die kleinen Löcher tropfen lassen.
+3. Klebe zuerst die Rückwand und die linke Seitenwand in die Bodenplatte.   Du kannst vorsichtig von oben etwas Sekundenkleber in die kleinen Löcher tropfen lassen.
    Achte darauf, dass die Teile gerade sitzen – das macht den späteren Zusammenbau einfacher.  
 
 <img src="../Bilder/2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-1. Klebe den schmalen Microcontroller-Halter hinten bündig in die Ecke der Bodenplatte.Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
+4. Klebe den schmalen Microcontroller-Halter hinten bündig in die Ecke der Bodenplatte.Die lange Seite zeigt zur Seitenwand, die kurze Seite zur Rückwand.
 
 <img src="../Bilder/AK3.jpg" alt="Bild 3" width="200">
 <br><br>
 
-1. Bevor du den Microcontroller befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
+5. Bevor du den Microcontroller befestigst, stecke den Knopf durch die vorgesehene Bohrung in der Vorderseite.Fixiere ihn mit der Mutter, damit er fest sitzt und sich nicht mehr bewegt.
 
 <img src="../Bilder/Knopf.jpg" alt="Bild Knopf" width="200">
 <br><br>
 
-1. Jetzt wird der Microcontroller auf den halter geklebt. So geht’s:
+6. Jetzt wird der Microcontroller auf den halter geklebt. So geht’s:
 
 Hier wird Heißkleber verwendet, nicht Sekundenkleber.
 
@@ -391,48 +391,46 @@ Lege den Microcontroller so an den halter dran, dass die Pins (die silbernen Bei
 Der Microcontroller soll oben ein kleines Stück auf dem halter aufliegen, damit er stabil sitzt.
 Die linke schwarze Buchse soll flach an der Rückwand anliegen.
 
-
-
 <img src="../Bilder/N2.jpg" alt="Bild 2" width="200">
 <br><br>
 
-1. Jetzt kommt der zweite Chiphalter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
-Er liegt vorne an dem Chip mit der langen Seite an.
+7. Jetzt kommt der zweite halter dran – der wird an die Seite geklebt, wo später die Vorderseite des Hauses ist.
+Er liegt vorne an dem Microcontroller mit der langen Seite an.
 
-Außerdem liegt er an dem anderen Chiphalter mit der kurzen Seite an
+Außerdem liegt er an dem anderen halter mit der kurzen Seite an
 
 <img src="../Bilder/N3.jpg" alt="Bild N3" width="200">
 <br><br>
 
-1. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
+8. Befestige die LED mittig an der Rückwand. Drücke sie leicht an, damit sie gut hält und später schön leuchtet.
    Hier wird Heißkleber verwendet, nicht Sekundenkleber.
 
 <img src="../Bilder/N9.jpg" alt="Bild LED" width="200">
 <br><br>
 
-1. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
+9. Klebe die zweite Seitenwand in die Bodenplatte. Sie kommt gegenüber der ersten Seitenwand.
 <img src="../Bilder/N4.jpg" alt="Bild 7" width="200">
 <br><br>
 
-1. Klebe die Vorderseite in die Bodenplatte.
+10. Klebe die Vorderseite in die Bodenplatte.
 <img src="../Bilder/N5.jpg" alt="Bild N5" width="200">
 <br><br>
 
-1. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante. Lass den Kleber etwa 1 Minute trocknen, damit alles schon etwas hält.
+11. Gib einen dünnen Streifen Sekundenkleber in die inneren Ecken – von unten nach oben entlang der Kante. Lass den Kleber etwa 1 Minute trocknen, damit alles schon etwas hält.
 <img src="../Bilder/N8.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
-1. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
+12. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
 <img src="../Bilder/N6.jpg" alt="Bild Frontscheibe" width="200">
 <br><br>
 
-1. Klebe die Seitenscheiben links und rechts auf.Sie passen genau in die Aussparungen der Seitenwände.
+13. Klebe die Seitenscheiben links und rechts auf.Sie passen genau in die Aussparungen der Seitenwände.
 Achte darauf, dass die rechte Scheibe etwas größer ist als die linke. Ihre lange Seite zeigt senkrecht nach oben – das wird die Höhe der Scheibe.
 
 <img src="../Bilder/N7.jpg" alt="Bild 10" width="200">
 <br><br>
 
-1. Zwischen den Chiphalter und die Frontscheibe musst du jetzt viel Heißkleber geben. Es ist nicht schlimm, wenn der Chip dabei etwas Kleber abbekommt – das sorgt sogar für mehr Stabilität.Anschließend gib in alle inneren Ecken des Hauses noch eine Spur Heißkleber für extra sicheren Halt
+14. Zwischen den halter und die Frontscheibe musst du jetzt viel Heißkleber geben. Es ist nicht schlimm, wenn der Microcontroller dabei etwas Kleber abbekommt – das sorgt sogar für mehr Stabilität.Anschließend gib in alle inneren Ecken des Hauses noch eine Spur Heißkleber für extra sicheren Halt
 
 <img src="../Bilder/KEcken.jpg" alt="Bild Ecken" width="200">
 <br><br>
@@ -442,11 +440,11 @@ Tipp: Mach dir keine Sorgen, wenn es von innen etwas unordentlich aussieht – d
 <img src="../Bilder/fertig.jpg" alt="unordentlich" width="200">
 <br><br>
 
-1. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
+15. Stecke den Stumpf durch die gelaserte Bohrung in der Mitte des Deckels und klebe ihn fest.
 <img src="../Bilder/11.jpg" alt="Bild 11" width="200">
 <br><br>
 
-1. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
+16. Setze den Deckel auf das Haus – jetzt ist dein Halloweenhaus fertig!
 <img src="../Bilder/12.jpg" alt="Bild 12" width="200">
 
 <br><br>
