@@ -38,6 +38,9 @@ Es ist der **zweite** Rechner auf der **linken** Seite.
 **LightBurn öffnen**:<br>
 Öffne das Programm LightBurn **zweimal**. Das geht am einfachsten, wenn du unten in der Windows-Suchleiste nach **„LightBurn“** suchst und das Programm zweimal startest.
 
+**Warum zweimal öffnen**?<br>
+So kannst du bequem Teile aus dem Baukasten in einem Fenster markieren und mit **Strg + C** kopieren, um sie im anderen Fenster mit **Strg + V** einzufügen. Das erleichtert die individuelle Gestaltung deines Halloweenhauses.
+
 Beim Öffnen der Datei kann ein Fenster erscheinen, das dich etwas fragen möchte. Klicke hier immer auf **„Nein“** – das ist wichtig, damit nichts verändert wird.
 
 <img src="../Bilder/nomaschine.png" alt="Frage" width="300">
