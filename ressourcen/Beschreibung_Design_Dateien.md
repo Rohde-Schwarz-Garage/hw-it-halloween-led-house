@@ -19,6 +19,9 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # 1. Laserdateien vorbereiten
 
+**Willkommen zum ersten Schritt**!
+Jetzt geht’s los mit dem **kreativen** Teil: Du gestaltest dein eigenes Halloweenhaus. Die Laserdateien bilden später die Gesichter und Details deines Halloweenhauses.
+
 **Hinweis**: Die Laser-Dateien stellen später u.a. deine Gesichter dar, du kannst sie natürlich frei anpassen und gestalten.
 
 **Was ist LightBurn**?<br>
