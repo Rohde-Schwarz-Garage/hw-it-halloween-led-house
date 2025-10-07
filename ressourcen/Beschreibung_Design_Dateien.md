@@ -6,7 +6,7 @@ Diese Anleitung hier ist eine kompakte Schritt-für-Schritt-Kurzfassung speziell
 
 # Inhaltsverzeichnis
 
-- [1. Laserdateien vorbereiten](#1-laserdateien-vorbereiten) (1 Stunde + 2,5 Stunden Laserung)<br>
+- [1. Laserdateien vorbereiten](#1-laserdateien-vorbereiten) (1 Stunde +  45minn Laserung)<br>
     Material: lightburn, Lightburn dateien, Kunstoff, Holz,  
 - [2. Microcontroller vorbereiten und programmieren](#2-Microcontroller-vorbereiten-und-programmieren) (30min)<br>
     Material: Microcontroller, USB-Kabel, Arduino IDE Software
