@@ -433,7 +433,7 @@ Außerdem liegt er an dem anderen halter mit der kurzen Seite an
 <img src="../Bilder/N8.jpg" alt="Bild Ecken" width="200">
 <br><br>
 
-12. Klebe die Frontscheibe auf die Vorderseite. Sie sollte gut aufliegen.
+12. Nun geht es an die Plexiglas-Scheiben. Achte darauf, dass die Scheiben unterschiedliche Größen besitzen. Probiere vorher die Passung lieber aus, bevor du direkt mit dem Kleben beginnst. Beginn dann beim Kleben mit der Frontscheibe für die Vorderseite. Sie sollte gut aufliegen.
 <img src="../Bilder/N6.jpg" alt="Bild Frontscheibe" width="200">
 <br><br>
 
